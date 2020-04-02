@@ -1,9 +1,12 @@
 <p align="center">
-  <a href="https://leetcode.com/adinic">
-    <img height=60 src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg">
-  </a>
+	<a href="https://leetcode.com/adinic">
+    	<img height=60 src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="LeetCode logo">
+  	</a>
+	</br></br>
+	<img src="https://swift.org/assets/images/swift.svg" alt="Swift logo" height="35" >
 </p>
-<br>
+
+</br>
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
