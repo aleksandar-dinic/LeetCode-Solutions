@@ -15,3 +15,4 @@
 | | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | | 💛 Medium |
 | | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | | ❤️ Hard |
 | | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | 💛 Medium |
+| ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/283%20Move%20Zeroes.swift) | 💚 Easy |
