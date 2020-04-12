@@ -17,6 +17,7 @@
 | ✅ | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/03%20Longest%20Substring%20Without%20Repeating%20Characters.swift) | 💛 Medium |
 | | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | | ❤️ Hard |
 | | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | 💛 Medium |
+| ✅ | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/20%20Valid%20Parentheses.swift) | 💚 Easy |
 | ✅ | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/26%20Remove%20Duplicates%20from%20Sorted%20Array.swift) | 💚 Easy |
 | ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/217%20Contains%20Duplicate.swift) | 💚 Easy |
 | ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/283%20Move%20Zeroes.swift) | 💚 Easy |
