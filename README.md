@@ -12,11 +12,16 @@
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
-| ✅ | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/01%20Two%20Sum.swift) | 💚 Easy |s
+| ✅ | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/01%20Two%20Sum.swift) | 💚 Easy |
 | ✅ | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/02%20Add%20Two%20Numbers.swift) | 💛 Medium |
 | ✅ | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/03%20Longest%20Substring%20Without%20Repeating%20Characters.swift) | 💛 Medium |
 | | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | | ❤️ Hard |
 | | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | 💛 Medium |
+| | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | | 💛 Medium |
+| | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | 💚 Easy |
+| | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | 💛 Medium |
+| | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | | 💚 Easy |
+| | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | | ❤️ Hard |
 | ✅ | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/20%20Valid%20Parentheses.swift) | 💚 Easy |
 | ✅ | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/26%20Remove%20Duplicates%20from%20Sorted%20Array.swift) | 💚 Easy |
 | ✅ | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/27%20Remove%20Element.swift) | 💚 Easy |
