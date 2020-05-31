@@ -22,6 +22,11 @@
 | | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | 💛 Medium |
 | | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | | 💚 Easy |
 | | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | | ❤️ Hard |
+| | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | | 💛 Medium |
+| | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | | 💛 Medium |
+| | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | | 💚 Easy |
+| | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | 💚 Easy |
+| | 15 | [3Sum](https://leetcode.com/problems/3sum/) | | 💛 Medium |
 | ✅ | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/20%20Valid%20Parentheses.swift) | 💚 Easy |
 | ✅ | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/26%20Remove%20Duplicates%20from%20Sorted%20Array.swift) | 💚 Easy |
 | ✅ | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/27%20Remove%20Element.swift) | 💚 Easy |
