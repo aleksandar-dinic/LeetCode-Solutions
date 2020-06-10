@@ -39,6 +39,7 @@
 | | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | | ❤️ Hard |
 | ✅ | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/26%20Remove%20Duplicates%20from%20Sorted%20Array.swift) | 💚 Easy |
 | ✅ | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/27%20Remove%20Element.swift) | 💚 Easy |
+| ✅ | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/35%20Search%20Insert%20Position.swift) | 💚 Easy |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/118%20Pascal%27s%20Triangle.swift) | 💚 Easy |
 | ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/119%20Pascal%27s%20Triangle%20II.swift) | 💚 Easy |
