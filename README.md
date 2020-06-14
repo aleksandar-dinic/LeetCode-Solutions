@@ -20,7 +20,7 @@
 | | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | | 💛 Medium |
 | | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | 💚 Easy |
 | | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | 💛 Medium |
-| | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | | 💚 Easy |
+| ✅ | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/09%20Palindrome%20Number.swift) | 💚 Easy |
 | | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | | ❤️ Hard |
 | | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | | 💛 Medium |
 | | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | | 💛 Medium |
@@ -42,6 +42,7 @@
 | ✅ | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/35%20Search%20Insert%20Position.swift) | 💚 Easy |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/75%20Sort%20Colors.swift) | 💛 Medium |
+||
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/118%20Pascal%27s%20Triangle.swift) | 💚 Easy |
 | ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/119%20Pascal%27s%20Triangle%20II.swift) | 💚 Easy |
 | ✅ | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.swift) | 💚 Easy |
@@ -51,12 +52,14 @@
 | ✅ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/151%20Reverse%20Words%20in%20a%20String.swift) | 💛 Medium |
 | ✅ | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift) | 💚 Easy |
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/169%20Majority%20Element.swift) | 💚 Easy |
+||
 | ✅ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/208%20Implement%20Trie%20(Prefix%20Tree).swift) | 💛 Medium |
 | ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/217%20Contains%20Duplicate.swift) | 💚 Easy |
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/231%20Power%20of%20Two.swift) | 💚 Easy |
 | ✅ | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/237%20Delete%20Node%20in%20a%20Linked%20List.swift) | 💚 Easy |
 | ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/283%20Move%20Zeroes.swift) | 💚 Easy |
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
+||
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/367%20Valid%20Perfect%20Square.swift) | 💚 Easy |
 | ✅ | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/380%20Insert%20Delete%20GetRandom%20O(1).swift) | 💛 Medium |
