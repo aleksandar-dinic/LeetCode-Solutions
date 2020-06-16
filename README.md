@@ -39,6 +39,7 @@
 | | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | | ❤️ Hard |
 | ✅ | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/26%20Remove%20Duplicates%20from%20Sorted%20Array.swift) | 💚 Easy |
 | ✅ | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/27%20Remove%20Element.swift) | 💚 Easy |
+|  | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | | 💚 Easy |
 | ✅ | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/35%20Search%20Insert%20Position.swift) | 💚 Easy |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/75%20Sort%20Colors.swift) | 💛 Medium |
