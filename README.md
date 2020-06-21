@@ -57,6 +57,7 @@
 | ✅ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/151%20Reverse%20Words%20in%20a%20String.swift) | 💛 Medium |
 | ✅ | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift) | 💚 Easy |
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/169%20Majority%20Element.swift) | 💚 Easy |
+| ✅ | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/174%20Dungeon%20Game.swift) | ❤️ Hard |
 ||
 | ✅ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/208%20Implement%20Trie%20(Prefix%20Tree).swift) | 💛 Medium |
 | ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/217%20Contains%20Duplicate.swift) | 💚 Easy |
