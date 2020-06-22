@@ -72,6 +72,9 @@
 | ✅ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/383%20Ransom%20Note.swift) | 💚 Easy |
 | ✅ | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/387%20First%20Unique%20Character%20in%20a%20String.swift) | 💚 Easy |
 | ✅ | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/476%20Number%20Complement.swift) | 💚 Easy |
+||
+| ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
+||
 | ✅ | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/678%20Valid%20Parenthesis%20String.swift) | 💛 Medium |
 ||
 | ✅ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/700%20Search%20in%20a%20Binary%20Search%20Tree.swift) | 💚 Easy |
