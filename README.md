@@ -65,6 +65,7 @@
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/231%20Power%20of%20Two.swift) | 💚 Easy |
 | ✅ | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/237%20Delete%20Node%20in%20a%20Linked%20List.swift) | 💚 Easy |
 | ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/283%20Move%20Zeroes.swift) | 💚 Easy |
+| ✅ | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/287%20Find%20the%20Duplicate%20Number.swift) | 💛 Medium |
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
 ||
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
