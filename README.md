@@ -71,6 +71,7 @@
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
 ||
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
+| ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/349%20Intersection%20of%20Two%20Arrays.swift) | 💚 Easy |
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/367%20Valid%20Perfect%20Square.swift) | 💚 Easy |
 | ✅ | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/380%20Insert%20Delete%20GetRandom%20O(1).swift) | 💛 Medium |
 | ✅ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/383%20Ransom%20Note.swift) | 💚 Easy |
