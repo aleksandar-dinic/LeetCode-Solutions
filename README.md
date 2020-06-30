@@ -78,6 +78,8 @@
 | ✅ | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/380%20Insert%20Delete%20GetRandom%20O(1).swift) | 💛 Medium |
 | ✅ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/383%20Ransom%20Note.swift) | 💚 Easy |
 | ✅ | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/387%20First%20Unique%20Character%20in%20a%20String.swift) | 💚 Easy |
+| ✅ | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/392%20Is%20Subsequence.swift) | 💚 Easy |
+||
 | ✅ | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/476%20Number%20Complement.swift) | 💚 Easy |
 ||
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
