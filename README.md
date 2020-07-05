@@ -28,7 +28,7 @@
 | | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | 💚 Easy |
 | | 15 | [3Sum](https://leetcode.com/problems/3sum/) | | 💛 Medium |
 | | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | | 💛 Medium |
-| | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | | 💛 Medium |
+| ✅ | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/17%20Letter%20Combinations%20of%20a%20Phone%20Number.swift) | 💛 Medium |
 | | 18 | [4Sum](https://leetcode.com/problems/4sum/) | | 💛 Medium |
 | | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | | 💛 Medium |
 | ✅ | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/20%20Valid%20Parentheses.swift) | 💚 Easy |
