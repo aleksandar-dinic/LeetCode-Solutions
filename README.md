@@ -83,6 +83,7 @@
 | ✅ | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/387%20First%20Unique%20Character%20in%20a%20String.swift) | 💚 Easy |
 | ✅ | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/392%20Is%20Subsequence.swift) | 💚 Easy |
 ||
+| ✅ | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/430%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/441%20Arranging%20Coins.swift) | 💚 Easy |
 | ✅ | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/461%20Hamming%20Distance.swift) | 💚 Easy |
 | ✅ | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/463%20Island%20Perimeter.swift) | 💚 Easy |
