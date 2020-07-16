@@ -48,6 +48,7 @@
 |  | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | 💛 Medium |
 | ✅ | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/35%20Search%20Insert%20Position.swift) | 💚 Easy |
 |  | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | 💛 Medium |
+| ✅ | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/50%20Pow(x,%20n).swift) | 💛 Medium |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/62%20Unique%20Paths.swift) | 💛 Medium |
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
