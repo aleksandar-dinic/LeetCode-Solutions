@@ -26,7 +26,7 @@
 | ✅ | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/12%20Integer%20to%20Roman.swift) | 💛 Medium |
 | ✅ | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/13%20Roman%20to%20Integer.swift) | 💚 Easy |
 | | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | 💚 Easy |
-| | 15 | [3Sum](https://leetcode.com/problems/3sum/) | | 💛 Medium |
+| ✅ | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/15%203Sum.swift) | 💛 Medium |
 | | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | | 💛 Medium |
 | ✅ | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/17%20Letter%20Combinations%20of%20a%20Phone%20Number.swift) | 💛 Medium |
 | | 18 | [4Sum](https://leetcode.com/problems/4sum/) | | 💛 Medium |
