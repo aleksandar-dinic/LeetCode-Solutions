@@ -69,6 +69,7 @@
 | ✅ | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/174%20Dungeon%20Game.swift) | ❤️ Hard |
 ||
 | ✅ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/208%20Implement%20Trie%20(Prefix%20Tree).swift) | 💛 Medium |
+| ✅ | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/210%20Course%20Schedule%20II.swift) | 💛 Medium |
 | ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/217%20Contains%20Duplicate.swift) | 💚 Easy |
 | ✅ | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/219%20Contains%20Duplicate%20II.swift) | 💚 Easy |
 | ✅ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/222%20Count%20Complete%20Tree%20Nodes.swift) | 💛 Medium |
