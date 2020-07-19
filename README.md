@@ -52,6 +52,7 @@
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/62%20Unique%20Paths.swift) | 💛 Medium |
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
+| ✅ | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/67%20Add%20Binary.swift) | 💚 Easy |
 | ✅ | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/75%20Sort%20Colors.swift) | 💛 Medium |
 ||
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/100%20Same%20Tree.swift) | 💚 Easy |
