@@ -57,6 +57,7 @@
 | ✅ | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/79%20Word%20Search.swift) | 💛 Medium |
 ||
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/100%20Same%20Tree.swift) | 💚 Easy |
+| ✅ | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/103%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.swift) | 💛 Medium |
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/107%20Binary%20Tree%20Level%20Order%20Traversal%20II.swift) | 💚 Easy |
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/118%20Pascal%27s%20Triangle.swift) | 💚 Easy |
 | ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/119%20Pascal%27s%20Triangle%20II.swift) | 💚 Easy |
