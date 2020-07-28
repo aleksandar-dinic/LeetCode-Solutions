@@ -103,6 +103,7 @@
 ||
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
 ||
+| ✅ | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/621%20Task%20Scheduler.swift) | 💛 Medium |
 | ✅ | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/662%20Maximum%20Width%20of%20Binary%20Tree.swift) | 💛 Medium |
 | ✅ | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/678%20Valid%20Parenthesis%20String.swift) | 💛 Medium |
 ||
