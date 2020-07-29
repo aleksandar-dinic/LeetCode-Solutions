@@ -87,6 +87,7 @@
 | ✅ | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/287%20Find%20the%20Duplicate%20Number.swift) | 💛 Medium |
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
 ||
+| ✅ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.swift) | 💛 Medium |
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/349%20Intersection%20of%20Two%20Arrays.swift) | 💚 Easy |
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/367%20Valid%20Perfect%20Square.swift) | 💚 Easy |
