@@ -104,6 +104,7 @@
 | ✅ | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/463%20Island%20Perimeter.swift) | 💚 Easy |
 | ✅ | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/476%20Number%20Complement.swift) | 💚 Easy |
 ||
+| ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
 ||
 | ✅ | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/621%20Task%20Scheduler.swift) | 💛 Medium |
