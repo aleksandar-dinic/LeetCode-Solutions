@@ -127,6 +127,7 @@
 ||
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
 | ✅ | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/957%20Prison%20Cells%20After%20N%20Days.swift) | 💛 Medium |
+| ✅ | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/987%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.swift) | 💛 Medium |
 | ✅ | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/997%20Find%20the%20Town%20Judge.swift) | 💚 Easy |
 ||
 | ✅ | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1009%20Complement%20of%20Base%2010%20Integer.swift) | 💚 Easy |
