@@ -111,6 +111,7 @@
 ||
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
 | ✅ | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/430%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.swift) | 💛 Medium |
+| ✅ | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/435%20Non-overlapping%20Intervals.swift) | 💛 Medium |
 | ✅ | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/437%20Path%20Sum%20III.swift) | 💛 Medium |
 | ✅ | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/441%20Arranging%20Coins.swift) | 💚 Easy |
 | ✅ | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/442%20Find%20All%20Duplicates%20in%20an%20Array.swift) | 💛 Medium |
