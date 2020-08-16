@@ -10,6 +10,8 @@
 
 </br>
 
+`103 Solved` - `💚 Easy 53` `💛 Medium 45` `❤️ Hard 5`
+
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
 | ✅ | 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/01%20Two%20Sum.swift) | 💚 Easy |
