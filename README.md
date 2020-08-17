@@ -10,7 +10,7 @@
 
 </br>
 
-`103 Solved` - `💚 Easy 53` `💛 Medium 45` `❤️ Hard 5`
+`104 Solved` - `💚 Easy 54` `💛 Medium 45` `❤️ Hard 5`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -145,6 +145,8 @@
 ||
 | ✅ | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1009%20Complement%20of%20Base%2010%20Integer.swift) | 💚 Easy |
 | ✅ | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1035%20Uncrossed%20Lines.swift) | 💛 Medium |
+||
+| ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
 ||
 | ✅ | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1286%20Iterator%20for%20Combination.swift) | 💛 Medium |
 ||
