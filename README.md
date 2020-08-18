@@ -10,7 +10,7 @@
 
 </br>
 
-`104 Solved` - `💚 Easy 54` `💛 Medium 45` `❤️ Hard 5`
+`105 Solved` - `💚 Easy 54` `💛 Medium 46` `❤️ Hard 5`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -139,6 +139,7 @@
 ||
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
 | ✅ | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/957%20Prison%20Cells%20After%20N%20Days.swift) | 💛 Medium |
+| ✅ | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/967%20Numbers%20With%20Same%20Consecutive%20Differences.swift) | 💛 Medium |
 | ✅ | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/987%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.swift) | 💛 Medium |
 | ✅ | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/994%20Rotting%20Oranges.swift) | 💛 Medium |
 | ✅ | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/997%20Find%20the%20Town%20Judge.swift) | 💚 Easy |
