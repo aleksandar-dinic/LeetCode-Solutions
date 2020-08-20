@@ -10,7 +10,7 @@
 
 </br>
 
-`106 Solved` - `💚 Easy 55` `💛 Medium 46` `❤️ Hard 5`
+`107 Solved` - `💚 Easy 55` `💛 Medium 47` `❤️ Hard 5`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -71,6 +71,7 @@
 | ✅ | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/129%20Sum%20Root%20to%20Leaf%20Numbers.swift) | 💛 Medium |
 | ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/136%20Single%20Number.swift) | 💚 Easy |
 | ✅ | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/140%20Word%20Break%20II.swift) | ❤️ Hard |
+| ✅ | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/143%20Reorder%20List.swift) | 💛 Medium |
 | ✅ | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/150%20Evaluate%20Reverse%20Polish%20Notation.swift) | 💛 Medium |
 | ✅ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/151%20Reverse%20Words%20in%20a%20String.swift) | 💛 Medium |
 | ✅ | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.swift) | ❤️ Hard |
