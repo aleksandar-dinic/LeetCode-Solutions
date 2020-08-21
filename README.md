@@ -10,7 +10,7 @@
 
 </br>
 
-`107 Solved` - `💚 Easy 55` `💛 Medium 47` `❤️ Hard 5`
+`108 Solved` - `💚 Easy 56` `💛 Medium 47` `❤️ Hard 5`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -140,6 +140,7 @@
 | ✅ | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/876%20Middle%20of%20the%20Linked%20List.swift) | 💚 Easy |
 ||
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
+| ✅ | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/905%20Sort%20Array%20By%20Parity.swift) | 💚 Easy |
 | ✅ | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/957%20Prison%20Cells%20After%20N%20Days.swift) | 💛 Medium |
 | ✅ | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/967%20Numbers%20With%20Same%20Consecutive%20Differences.swift) | 💛 Medium |
 | ✅ | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/987%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.swift) | 💛 Medium |
