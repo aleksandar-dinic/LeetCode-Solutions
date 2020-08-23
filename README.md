@@ -10,7 +10,7 @@
 
 </br>
 
-`110 Solved` - `💚 Easy 56` `💛 Medium 49` `❤️ Hard 5`
+`111 Solved` - `💚 Easy 56` `💛 Medium 49` `❤️ Hard 6`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -150,6 +150,7 @@
 | ✅ | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/997%20Find%20the%20Town%20Judge.swift) | 💚 Easy |
 ||
 | ✅ | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1009%20Complement%20of%20Base%2010%20Integer.swift) | 💚 Easy |
+| ✅ | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1032%20Stream%20of%20Characters.swift) | ❤️ Hard |
 | ✅ | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1035%20Uncrossed%20Lines.swift) | 💛 Medium |
 ||
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
