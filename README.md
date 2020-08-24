@@ -10,7 +10,7 @@
 
 </br>
 
-`111 Solved` - `💚 Easy 56` `💛 Medium 49` `❤️ Hard 6`
+`112 Solved` - `💚 Easy 57` `💛 Medium 49` `❤️ Hard 6`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -113,6 +113,7 @@
 | ✅ | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/387%20First%20Unique%20Character%20in%20a%20String.swift) | 💚 Easy |
 | ✅ | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/392%20Is%20Subsequence.swift) | 💚 Easy |
 ||
+| ✅ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/404%20Sum%20of%20Left%20Leaves.swift) | 💚 Easy |
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
 | ✅ | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/430%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/435%20Non-overlapping%20Intervals.swift) | 💛 Medium |
