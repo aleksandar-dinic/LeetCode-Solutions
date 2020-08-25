@@ -10,7 +10,7 @@
 
 </br>
 
-`112 Solved` - `💚 Easy 57` `💛 Medium 49` `❤️ Hard 6`
+`113 Solved` - `💚 Easy 57` `💛 Medium 50` `❤️ Hard 6`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -146,6 +146,7 @@
 | ✅ | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/905%20Sort%20Array%20By%20Parity.swift) | 💚 Easy |
 | ✅ | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/957%20Prison%20Cells%20After%20N%20Days.swift) | 💛 Medium |
 | ✅ | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/967%20Numbers%20With%20Same%20Consecutive%20Differences.swift) | 💛 Medium |
+| ✅ | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/983%20Minimum%20Cost%20For%20Tickets.swift) | 💛 Medium |
 | ✅ | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/987%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.swift) | 💛 Medium |
 | ✅ | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/994%20Rotting%20Oranges.swift) | 💛 Medium |
 | ✅ | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/997%20Find%20the%20Town%20Judge.swift) | 💚 Easy |
