@@ -10,7 +10,7 @@
 
 </br>
 
-`113 Solved` - `💚 Easy 57` `💛 Medium 50` `❤️ Hard 6`
+`114 Solved` - `💚 Easy 58` `💛 Medium 50` `❤️ Hard 6`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -115,6 +115,7 @@
 ||
 | ✅ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/404%20Sum%20of%20Left%20Leaves.swift) | 💚 Easy |
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
+| ✅ | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/412%20Fizz%20Buzz.swift) | 💚 Easy |
 | ✅ | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/430%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/435%20Non-overlapping%20Intervals.swift) | 💛 Medium |
 | ✅ | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/437%20Path%20Sum%20III.swift) | 💛 Medium |
