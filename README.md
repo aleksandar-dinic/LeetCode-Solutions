@@ -10,7 +10,7 @@
 
 </br>
 
-`115 Solved` - `💚 Easy 58` `💛 Medium 51` `❤️ Hard 6`
+`116 Solved` - `💚 Easy 59` `💛 Medium 51` `❤️ Hard 6`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -76,6 +76,7 @@
 | ✅ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/151%20Reverse%20Words%20in%20a%20String.swift) | 💛 Medium |
 | ✅ | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.swift) | ❤️ Hard |
 | ✅ | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/156%20Binary%20Tree%20Upside%20Down.swift) | 💛 Medium |
+| ✅ | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/157%20Read%20N%20Characters%20Given%20Read4.swift) | 💚 Easy |
 | ✅ | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift) | 💚 Easy |
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/169%20Majority%20Element.swift) | 💚 Easy |
 | ✅ | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/171%20Excel%20Sheet%20Column%20Number.swift) | 💚 Easy |
