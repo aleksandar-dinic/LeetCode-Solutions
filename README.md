@@ -10,7 +10,7 @@
 
 </br>
 
-`116 Solved` - `💚 Easy 59` `💛 Medium 51` `❤️ Hard 6`
+`117 Solved` - `💚 Easy 60` `💛 Medium 51` `❤️ Hard 6`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -125,6 +125,7 @@
 | ✅ | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/442%20Find%20All%20Duplicates%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/461%20Hamming%20Distance.swift) | 💚 Easy |
 | ✅ | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/463%20Island%20Perimeter.swift) | 💚 Easy |
+| ✅ | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/470%20Implement%20Rand10()%20Using%20Rand7().swift) | 💛 Medium |
 | ✅ | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/476%20Number%20Complement.swift) | 💚 Easy |
 | ✅ | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/484%20Find%20Permutation.swift) | 💛 Medium |
 | ✅ | 490 | [The Maze](https://leetcode.com/problems/the-maze/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/490%20The%20Maze.swift) | 💛 Medium |
