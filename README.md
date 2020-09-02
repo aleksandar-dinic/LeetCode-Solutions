@@ -10,7 +10,7 @@
 
 </br>
 
-`123 Solved` - `💚 Easy 62` `💛 Medium 53` `❤️ Hard 8`
+`124 Solved` - `💚 Easy 63` `💛 Medium 53` `❤️ Hard 8`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -90,6 +90,7 @@
 | ✅ | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/211%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.swift) | 💛 Medium |
 | ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/217%20Contains%20Duplicate.swift) | 💚 Easy |
 | ✅ | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/219%20Contains%20Duplicate%20II.swift) | 💚 Easy |
+| ✅ | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/220%20Contains%20Duplicate%20III.swift) | 💛 Medium |
 | ✅ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/222%20Count%20Complete%20Tree%20Nodes.swift) | 💛 Medium |
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/231%20Power%20of%20Two.swift) | 💚 Easy |
 | ✅ | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/237%20Delete%20Node%20in%20a%20Linked%20List.swift) | 💚 Easy |
