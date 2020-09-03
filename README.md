@@ -10,7 +10,7 @@
 
 </br>
 
-`124 Solved` - `💚 Easy 63` `💛 Medium 53` `❤️ Hard 8`
+`125 Solved` - `💚 Easy 64` `💛 Medium 53` `❤️ Hard 8`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -126,6 +126,7 @@
 | ✅ | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/441%20Arranging%20Coins.swift) | 💚 Easy |
 | ✅ | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/442%20Find%20All%20Duplicates%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/450%20Delete%20Node%20in%20a%20BST.swift) | 💛 Medium |
+| ✅ | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/459%20Repeated%20Substring%20Pattern.swift) | 💚 Easy |
 | ✅ | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/461%20Hamming%20Distance.swift) | 💚 Easy |
 | ✅ | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/463%20Island%20Perimeter.swift) | 💚 Easy |
 | ✅ | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/470%20Implement%20Rand10()%20Using%20Rand7().swift) | 💛 Medium |
