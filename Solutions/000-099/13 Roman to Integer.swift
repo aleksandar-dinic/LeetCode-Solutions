@@ -20,15 +20,23 @@ class Solution {
     ///   - time: O(n), where n is the number of characters in s.
     ///   - space: O(1), only constant space is used.
     func romanToInt(_ s: String) -> Int {
-        guard !s.isEmpty else { return 0 }
-        let dict: [Character: Int] = ["I": 1, "V": 5, "X": 10, "L": 50, "C": 100, "D": 500, "M": 1000]
+        guard !s.isEmpty, let first = s.first else { return 0 }
 
-        let s = Array(s)
+        let dict: [Character: Int] = [
+            "I": 1,
+            "V": 5,
+            "X": 10,
+            "L": 50,
+            "C": 100,
+            "D": 500,
+            "M": 1000
+        ]
+
         var ans = 0
-        var prev = dict[s[0]] ?? 0
+        var prev = dict[first] ?? 0
 
-        for i in 1..<s.count {
-            guard let next = dict[s[i]] else { continue }
+        for (i, ch) in s.enumerated() where i > 0 {
+            guard let next = dict[ch] else { continue }
 
             if prev < next {
                 ans -= prev
