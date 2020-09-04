@@ -25,7 +25,6 @@ class CombinationIterator {
     init(_ characters: String, _ combinationLength: Int) {
         combinations = [String]()
 
-        let characters = Array(characters)
         let n = characters.count
         let k = combinationLength
 
@@ -33,9 +32,9 @@ class CombinationIterator {
             guard bitmask.nonzeroBitCount == k else { continue }
 
             var current = ""
-            for j in 0..<n {
+            for (j, ch) in characters.enumerated() {
                 guard bitmask & (1 << (n - j - 1)) != 0 else { continue }
-                current = "\(current)\(characters[j])"
+                current = "\(current)\(ch)"
             }
             combinations.append(current)
         }
