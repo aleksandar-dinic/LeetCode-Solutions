@@ -10,7 +10,7 @@
 
 </br>
 
-`128 Solved` - `💚 Easy 66` `💛 Medium 54` `❤️ Hard 8`
+`129 Solved` - `💚 Easy 67` `💛 Medium 54` `❤️ Hard 8`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -102,6 +102,7 @@
 | ✅ | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/274%20H-Index.swift) | 💛 Medium |
 | ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/283%20Move%20Zeroes.swift) | 💚 Easy |
 | ✅ | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/287%20Find%20the%20Duplicate%20Number.swift) | 💛 Medium |
+| ✅ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/290%20Word%20Pattern.swift) | 💚 Easy |
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
 ||
 | ✅ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.swift) | 💛 Medium |
