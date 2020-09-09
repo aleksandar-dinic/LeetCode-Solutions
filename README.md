@@ -10,7 +10,7 @@
 
 </br>
 
-`130 Solved` - `💚 Easy 68` `💛 Medium 54` `❤️ Hard 8`
+`131 Solved` - `💚 Easy 68` `💛 Medium 55` `❤️ Hard 8`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -77,6 +77,7 @@
 | ✅ | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.swift) | ❤️ Hard |
 | ✅ | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/156%20Binary%20Tree%20Upside%20Down.swift) | 💛 Medium |
 | ✅ | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/157%20Read%20N%20Characters%20Given%20Read4.swift) | 💚 Easy |
+| ✅ | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/165%20Compare%20Version%20Numbers.swift) | 💛 Medium |
 | ✅ | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift) | 💚 Easy |
 | ✅ | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/169%20Majority%20Element.swift) | 💚 Easy |
 | ✅ | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/170%20Two%20Sum%20III%20-%20Data%20structure%20design.swift) | 💚 Easy |
