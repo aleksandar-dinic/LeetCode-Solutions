@@ -10,7 +10,7 @@
 
 </br>
 
-`131 Solved` - `💚 Easy 68` `💛 Medium 55` `❤️ Hard 8`
+`132 Solved` - `💚 Easy 69` `💛 Medium 55` `❤️ Hard 8`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -105,6 +105,7 @@
 | ✅ | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/287%20Find%20the%20Duplicate%20Number.swift) | 💛 Medium |
 | ✅ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/290%20Word%20Pattern.swift) | 💚 Easy |
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
+| ✅ | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/299%20Bulls%20and%20Cows.swift) | 💚 Easy |
 ||
 | ✅ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.swift) | 💛 Medium |
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/342%20Power%20of%20Four.swift) | 💚 Easy |
