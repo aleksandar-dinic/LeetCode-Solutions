@@ -10,7 +10,7 @@
 
 </br>
 
-`132 Solved` - `💚 Easy 69` `💛 Medium 55` `❤️ Hard 8`
+`133 Solved` - `💚 Easy 69` `💛 Medium 56` `❤️ Hard 8`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -74,6 +74,7 @@
 | ✅ | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/143%20Reorder%20List.swift) | 💛 Medium |
 | ✅ | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/150%20Evaluate%20Reverse%20Polish%20Notation.swift) | 💛 Medium |
 | ✅ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/151%20Reverse%20Words%20in%20a%20String.swift) | 💛 Medium |
+| ✅ | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/152%20Maximum%20Product%20Subarray.swift) | 💛 Medium |
 | ✅ | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.swift) | ❤️ Hard |
 | ✅ | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/156%20Binary%20Tree%20Upside%20Down.swift) | 💛 Medium |
 | ✅ | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/157%20Read%20N%20Characters%20Given%20Read4.swift) | 💚 Easy |
