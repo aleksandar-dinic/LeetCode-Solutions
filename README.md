@@ -10,7 +10,7 @@
 
 </br>
 
-`133 Solved` - `💚 Easy 69` `💛 Medium 56` `❤️ Hard 8`
+`134 Solved` - `💚 Easy 69` `💛 Medium 57` `❤️ Hard 8`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -90,6 +90,7 @@
 | ✅ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/208%20Implement%20Trie%20(Prefix%20Tree).swift) | 💛 Medium |
 | ✅ | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/210%20Course%20Schedule%20II.swift) | 💛 Medium |
 | ✅ | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/211%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.swift) | 💛 Medium |
+| ✅ | 216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/216%20Combination%20Sum%20III.swift) | 💛 Medium |
 | ✅ | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/217%20Contains%20Duplicate.swift) | 💚 Easy |
 | ✅ | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/219%20Contains%20Duplicate%20II.swift) | 💚 Easy |
 | ✅ | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/220%20Contains%20Duplicate%20III.swift) | 💛 Medium |
