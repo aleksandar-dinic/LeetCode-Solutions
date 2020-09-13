@@ -10,7 +10,7 @@
 
 </br>
 
-`134 Solved` - `💚 Easy 69` `💛 Medium 57` `❤️ Hard 8`
+`135 Solved` - `💚 Easy 69` `💛 Medium 57` `❤️ Hard 9`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -52,6 +52,7 @@
 |  | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | 💛 Medium |
 | ✅ | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/50%20Pow(x,%20n).swift) | 💛 Medium |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
+| ✅ | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/57%20Insert%20Interval.swift) | ❤️ Hard |
 | ✅ | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/62%20Unique%20Paths.swift) | 💛 Medium |
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
 | ✅ | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/67%20Add%20Binary.swift) | 💚 Easy |
