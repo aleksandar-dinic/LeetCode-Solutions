@@ -10,7 +10,7 @@
 
 </br>
 
-`136 Solved` - `💚 Easy 70` `💛 Medium 57` `❤️ Hard 9`
+`137 Solved` - `💚 Easy 70` `💛 Medium 58` `❤️ Hard 9`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -114,6 +114,7 @@
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/342%20Power%20of%20Four.swift) | 💚 Easy |
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
 | ✅ | 346 | [Moving Average from Data Stream](https://leetcode.com/problems/moving-average-from-data-stream/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/346%20Moving%20Average%20from%20Data%20Stream.swift) | 💚 Easy |
+| ✅ | 348 | [Design Tic-Tac-Toe](https://leetcode.com/problems/design-tic-tac-toe/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/348%20Design%20Tic-Tac-Toe.swift) | 💛 Medium |
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/349%20Intersection%20of%20Two%20Arrays.swift) | 💚 Easy |
 | ✅ | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/359%20Logger%20Rate%20Limiter.swift) | 💚 Easy |
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/367%20Valid%20Perfect%20Square.swift) | 💚 Easy |
