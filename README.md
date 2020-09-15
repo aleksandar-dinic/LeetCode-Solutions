@@ -10,7 +10,7 @@
 
 </br>
 
-`138 Solved` - `💚 Easy 71` `💛 Medium 58` `❤️ Hard 9`
+`139 Solved` - `💚 Easy 71` `💛 Medium 59` `❤️ Hard 9`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -145,6 +145,7 @@
 | ✅ | 490 | [The Maze](https://leetcode.com/problems/the-maze/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/490%20The%20Maze.swift) | 💛 Medium |
 | ✅ | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/497%20Random%20Point%20in%20Non-overlapping%20Rectangles.swift) | 💛 Medium |
 ||
+| ✅ | 510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/510%20Inorder%20Successor%20in%20BST%20II.swift) | 💛 Medium |
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
 ||
