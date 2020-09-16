@@ -10,7 +10,7 @@
 
 </br>
 
-`140 Solved` - `💚 Easy 72` `💛 Medium 59` `❤️ Hard 9`
+`141 Solved` - `💚 Easy 72` `💛 Medium 60` `❤️ Hard 9`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -128,6 +128,7 @@
 | ✅ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/404%20Sum%20of%20Left%20Leaves.swift) | 💚 Easy |
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
 | ✅ | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/412%20Fizz%20Buzz.swift) | 💚 Easy |
+| ✅ | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/421%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/430%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/435%20Non-overlapping%20Intervals.swift) | 💛 Medium |
 | ✅ | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/436%20Find%20Right%20Interval.swift) | 💛 Medium |
