@@ -10,7 +10,7 @@
 
 </br>
 
-`142 Solved` - `💚 Easy 72` `💛 Medium 61` `❤️ Hard 9`
+`143 Solved` - `💚 Easy 73` `💛 Medium 61` `❤️ Hard 9`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -60,6 +60,7 @@
 | ✅ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/70%20Climbing%20Stairs.swift) | 💚 Easy |
 | ✅ | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/75%20Sort%20Colors.swift) | 💛 Medium |
 | ✅ | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/79%20Word%20Search.swift) | 💛 Medium |
+| ✅ | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/83%20Remove%20Duplicates%20from%20Sorted%20List.swift) | 💚 Easy |
 ||
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/100%20Same%20Tree.swift) | 💚 Easy |
 | ✅ | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/103%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.swift) | 💛 Medium |
