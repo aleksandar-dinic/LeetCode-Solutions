@@ -10,7 +10,7 @@
 
 </br>
 
-`143 Solved` - `💚 Easy 73` `💛 Medium 61` `❤️ Hard 9`
+`144 Solved` - `💚 Easy 74` `💛 Medium 61` `❤️ Hard 9`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -67,6 +67,7 @@
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/107%20Binary%20Tree%20Level%20Order%20Traversal%20II.swift) | 💚 Easy |
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/118%20Pascal%27s%20Triangle.swift) | 💚 Easy |
 | ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/119%20Pascal%27s%20Triangle%20II.swift) | 💚 Easy |
+| ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.swift) | 💚 Easy |
 | ✅ | 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/122%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II.swift) | 💚 Easy |
 | ✅ | 123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/123%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20III.swift) | ❤️ Hard |
 | ✅ | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/124%20Binary%20Tree%20Maximum%20Path%20Sum.swift) | ❤️ Hard |
