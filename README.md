@@ -10,7 +10,7 @@
 
 </br>
 
-`144 Solved` - `💚 Easy 74` `💛 Medium 61` `❤️ Hard 9`
+`145 Solved` - `💚 Easy 74` `💛 Medium 62` `❤️ Hard 9`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -188,6 +188,7 @@
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
 ||
 | ✅ | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1286%20Iterator%20for%20Combination.swift) | 💛 Medium |
+| ✅ | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1291%20Sequential%20Digits.swift) | 💛 Medium |
 | ✅ | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.swift) | 💚 Easy |
 ||
 | ✅ | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1300-1399/1344%20Angle%20Between%20Hands%20of%20a%20Clock.swift) | 💛 Medium |
