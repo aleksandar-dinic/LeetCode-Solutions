@@ -10,7 +10,7 @@
 
 </br>
 
-`145 Solved` - `💚 Easy 74` `💛 Medium 62` `❤️ Hard 9`
+`146 Solved` - `💚 Easy 74` `💛 Medium 62` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -174,6 +174,7 @@
 | ✅ | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/967%20Numbers%20With%20Same%20Consecutive%20Differences.swift) | 💛 Medium |
 | ✅ | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/969%20Pancake%20Sorting.swift) | 💛 Medium |
 | ✅ | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/977%20Squares%20of%20a%20Sorted%20Array.swift) | 💚 Easy |
+| ✅ | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/980%20Unique%20Paths%20III.swift) | ❤️ Hard |
 | ✅ | 983 | [Minimum Cost For Tickets](https://leetcode.com/problems/minimum-cost-for-tickets/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/983%20Minimum%20Cost%20For%20Tickets.swift) | 💛 Medium |
 | ✅ | 987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/987%20Vertical%20Order%20Traversal%20of%20a%20Binary%20Tree.swift) | 💛 Medium |
 | ✅ | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/994%20Rotting%20Oranges.swift) | 💛 Medium |
