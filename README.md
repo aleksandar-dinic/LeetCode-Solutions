@@ -10,7 +10,7 @@
 
 </br>
 
-`146 Solved` - `💚 Easy 74` `💛 Medium 62` `❤️ Hard 10`
+`147 Solved` - `💚 Easy 74` `💛 Medium 63` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -185,6 +185,7 @@
 | ✅ | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1032%20Stream%20of%20Characters.swift) | ❤️ Hard |
 | ✅ | 1035 | [Uncrossed Lines](https://leetcode.com/problems/uncrossed-lines/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1035%20Uncrossed%20Lines.swift) | 💛 Medium |
 | ✅ | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1041%20Robot%20Bounded%20In%20Circle.swift) | 💛 Medium |
+| ✅ | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1094%20Car%20Pooling.swift) | 💛 Medium |
 ||
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
 ||
