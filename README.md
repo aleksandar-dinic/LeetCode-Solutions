@@ -10,7 +10,7 @@
 
 </br>
 
-`147 Solved` - `💚 Easy 74` `💛 Medium 63` `❤️ Hard 10`
+`148 Solved` - `💚 Easy 74` `💛 Medium 64` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -100,6 +100,7 @@
 | ✅ | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/219%20Contains%20Duplicate%20II.swift) | 💚 Easy |
 | ✅ | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/220%20Contains%20Duplicate%20III.swift) | 💛 Medium |
 | ✅ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/222%20Count%20Complete%20Tree%20Nodes.swift) | 💛 Medium |
+| ✅ | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/229%20Majority%20Element%20II.swift) | 💛 Medium |
 | ✅ | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/231%20Power%20of%20Two.swift) | 💚 Easy |
 | ✅ | 237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/237%20Delete%20Node%20in%20a%20Linked%20List.swift) | 💚 Easy |
 | ✅ | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/246%20Strobogrammatic%20Number.swift) | 💚 Easy |
