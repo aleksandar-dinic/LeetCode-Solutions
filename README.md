@@ -10,7 +10,7 @@
 
 </br>
 
-`148 Solved` - `💚 Easy 74` `💛 Medium 64` `❤️ Hard 10`
+`149 Solved` - `💚 Easy 74` `💛 Medium 65` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -159,6 +159,7 @@
 | ✅ | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/678%20Valid%20Parenthesis%20String.swift) | 💛 Medium |
 ||
 | ✅ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/700%20Search%20in%20a%20Binary%20Search%20Tree.swift) | 💚 Easy |
+| ✅ | 708 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/708%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/733%20Flood%20Fill.swift) | 💚 Easy |
 | ✅ | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/763%20Partition%20Labels.swift) | 💛 Medium |
 | ✅ | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/771%20Jewels%20and%20Stones.swift) | 💚 Easy |
