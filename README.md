@@ -10,7 +10,7 @@
 
 </br>
 
-`149 Solved` - `💚 Easy 74` `💛 Medium 65` `❤️ Hard 10`
+`150 Solved` - `💚 Easy 74` `💛 Medium 66` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -73,6 +73,7 @@
 | ✅ | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/124%20Binary%20Tree%20Maximum%20Path%20Sum.swift) | ❤️ Hard |
 | ✅ | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/125%20Valid%20Palindrome.swift) | 💚 Easy |
 | ✅ | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/129%20Sum%20Root%20to%20Leaf%20Numbers.swift) | 💛 Medium |
+| ✅ | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/134%20Gas%20Station.swift) | 💛 Medium |
 | ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/136%20Single%20Number.swift) | 💚 Easy |
 | ✅ | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/140%20Word%20Break%20II.swift) | ❤️ Hard |
 | ✅ | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/143%20Reorder%20List.swift) | 💛 Medium |
