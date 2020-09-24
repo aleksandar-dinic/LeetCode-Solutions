@@ -10,7 +10,7 @@
 
 </br>
 
-`150 Solved` - `💚 Easy 74` `💛 Medium 66` `❤️ Hard 10`
+`151 Solved` - `💚 Easy 75` `💛 Medium 66` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -127,6 +127,7 @@
 | ✅ | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/380%20Insert%20Delete%20GetRandom%20O(1).swift) | 💛 Medium |
 | ✅ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/383%20Ransom%20Note.swift) | 💚 Easy |
 | ✅ | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/387%20First%20Unique%20Character%20in%20a%20String.swift) | 💚 Easy |
+| ✅ | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/389%20Find%20the%20Difference.swift) | 💚 Easy |
 | ✅ | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/392%20Is%20Subsequence.swift) | 💚 Easy |
 ||
 | ✅ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/404%20Sum%20of%20Left%20Leaves.swift) | 💚 Easy |
