@@ -10,7 +10,7 @@
 
 </br>
 
-`152 Solved` - `💚 Easy 75` `💛 Medium 67` `❤️ Hard 10`
+`153 Solved` - `💚 Easy 75` `💛 Medium 68` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -149,6 +149,7 @@
 | ✅ | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/476%20Number%20Complement.swift) | 💚 Easy |
 | ✅ | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/484%20Find%20Permutation.swift) | 💛 Medium |
 | ✅ | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/485%20Max%20Consecutive%20Ones.swift) | 💚 Easy |
+| ✅ | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/487%20Max%20Consecutive%20Ones%20II.swift) | 💛 Medium |
 | ✅ | 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/489%20Robot%20Room%20Cleaner.swift) | ❤️ Hard |
 | ✅ | 490 | [The Maze](https://leetcode.com/problems/the-maze/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/490%20The%20Maze.swift) | 💛 Medium |
 | ✅ | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/497%20Random%20Point%20in%20Non-overlapping%20Rectangles.swift) | 💛 Medium |
