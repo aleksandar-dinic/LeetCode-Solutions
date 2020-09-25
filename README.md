@@ -10,7 +10,7 @@
 
 </br>
 
-`151 Solved` - `💚 Easy 75` `💛 Medium 66` `❤️ Hard 10`
+`152 Solved` - `💚 Easy 75` `💛 Medium 67` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -89,6 +89,7 @@
 | ✅ | 170 | [Two Sum III - Data structure design](https://leetcode.com/problems/two-sum-iii-data-structure-design/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/170%20Two%20Sum%20III%20-%20Data%20structure%20design.swift) | 💚 Easy |
 | ✅ | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/171%20Excel%20Sheet%20Column%20Number.swift) | 💚 Easy |
 | ✅ | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/174%20Dungeon%20Game.swift) | ❤️ Hard |
+| ✅ | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/179%20Largest%20Number.swift) | 💛 Medium |
 | ✅ | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/186%20Reverse%20Words%20in%20a%20String%20II.swift) | 💛 Medium |
 | ✅ | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/198%20House%20Robber.swift) | 💚 Easy |
 ||
