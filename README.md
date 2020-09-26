@@ -10,7 +10,7 @@
 
 </br>
 
-`153 Solved` - `💚 Easy 75` `💛 Medium 68` `❤️ Hard 10`
+`154 Solved` - `💚 Easy 75` `💛 Medium 69` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -152,6 +152,7 @@
 | ✅ | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/487%20Max%20Consecutive%20Ones%20II.swift) | 💛 Medium |
 | ✅ | 489 | [Robot Room Cleaner](https://leetcode.com/problems/robot-room-cleaner/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/489%20Robot%20Room%20Cleaner.swift) | ❤️ Hard |
 | ✅ | 490 | [The Maze](https://leetcode.com/problems/the-maze/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/490%20The%20Maze.swift) | 💛 Medium |
+| ✅ | 495 | [Teemo Attacking](https://leetcode.com/problems/teemo-attacking/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/495%20Teemo%20Attacking.swift) | 💛 Medium |
 | ✅ | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode.com/problems/random-point-in-non-overlapping-rectangles/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/497%20Random%20Point%20in%20Non-overlapping%20Rectangles.swift) | 💛 Medium |
 ||
 | ✅ | 510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/510%20Inorder%20Successor%20in%20BST%20II.swift) | 💛 Medium |
