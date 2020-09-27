@@ -10,7 +10,7 @@
 
 </br>
 
-`154 Solved` - `💚 Easy 75` `💛 Medium 69` `❤️ Hard 10`
+`155 Solved` - `💚 Easy 75` `💛 Medium 70` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -130,6 +130,7 @@
 | ✅ | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/387%20First%20Unique%20Character%20in%20a%20String.swift) | 💚 Easy |
 | ✅ | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/389%20Find%20the%20Difference.swift) | 💚 Easy |
 | ✅ | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/392%20Is%20Subsequence.swift) | 💚 Easy |
+| ✅ | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/399%20Evaluate%20Division.swift) | 💛 Medium |
 ||
 | ✅ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/404%20Sum%20of%20Left%20Leaves.swift) | 💚 Easy |
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
