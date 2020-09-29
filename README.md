@@ -10,7 +10,7 @@
 
 </br>
 
-`156 Solved` - `💚 Easy 75` `💛 Medium 71` `❤️ Hard 10`
+`157 Solved` - `💚 Easy 75` `💛 Medium 72` `❤️ Hard 10`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -75,6 +75,7 @@
 | ✅ | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/129%20Sum%20Root%20to%20Leaf%20Numbers.swift) | 💛 Medium |
 | ✅ | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/134%20Gas%20Station.swift) | 💛 Medium |
 | ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/136%20Single%20Number.swift) | 💚 Easy |
+| ✅ | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/139%20Word%20Break.swift) | 💛 Medium |
 | ✅ | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/140%20Word%20Break%20II.swift) | ❤️ Hard |
 | ✅ | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/143%20Reorder%20List.swift) | 💛 Medium |
 | ✅ | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/150%20Evaluate%20Reverse%20Polish%20Notation.swift) | 💛 Medium |
