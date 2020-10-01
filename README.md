@@ -10,7 +10,7 @@
 
 </br>
 
-`158 Solved` - `💚 Easy 75` `💛 Medium 72` `❤️ Hard 11`
+`159 Solved` - `💚 Easy 76` `💛 Medium 72` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -179,6 +179,7 @@
 ||
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
 | ✅ | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/905%20Sort%20Array%20By%20Parity.swift) | 💚 Easy |
+| ✅ | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/933%20Number%20of%20Recent%20Calls.swift) | 💚 Easy |
 | ✅ | 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/949%20Largest%20Time%20for%20Given%20Digits.swift) | 💚 Easy |
 | ✅ | 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/952%20Largest%20Component%20Size%20by%20Common%20Factor.swift) | ❤️ Hard |
 | ✅ | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/957%20Prison%20Cells%20After%20N%20Days.swift) | 💛 Medium |
