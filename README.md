@@ -10,7 +10,7 @@
 
 </br>
 
-`160 Solved` - `💚 Easy 77` `💛 Medium 72` `❤️ Hard 11`
+`161 Solved` - `💚 Easy 77` `💛 Medium 73` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -50,6 +50,7 @@
 |  | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | 💛 Medium |
 | ✅ | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/35%20Search%20Insert%20Position.swift) | 💚 Easy |
 |  | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | 💛 Medium |
+| ✅ | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/39%20Combination%20Sum.swift) | 💛 Medium |
 | ✅ | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/41%20First%20Missing%20Positive.swift) | ❤️ Hard |
 | ✅ | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/50%20Pow(x,%20n).swift) | 💛 Medium |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
