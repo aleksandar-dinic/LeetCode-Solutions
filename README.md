@@ -10,7 +10,7 @@
 
 </br>
 
-`161 Solved` - `💚 Easy 77` `💛 Medium 73` `❤️ Hard 11`
+`162 Solved` - `💚 Easy 77` `💛 Medium 74` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -161,6 +161,7 @@
 ||
 | ✅ | 510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/510%20Inorder%20Successor%20in%20BST%20II.swift) | 💛 Medium |
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
+| ✅ | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/532%20K-diff%20Pairs%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
 ||
 | ✅ | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/621%20Task%20Scheduler.swift) | 💛 Medium |
