@@ -10,7 +10,7 @@
 
 </br>
 
-`162 Solved` - `💚 Easy 77` `💛 Medium 74` `❤️ Hard 11`
+`163 Solved` - `💚 Easy 77` `💛 Medium 75` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -205,6 +205,7 @@
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
 ||
 | ✅ | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1286%20Iterator%20for%20Combination.swift) | 💛 Medium |
+| ✅ | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1288%20Remove%20Covered%20Intervals.swift) | 💛 Medium |
 | ✅ | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1291%20Sequential%20Digits.swift) | 💛 Medium |
 | ✅ | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.swift) | 💚 Easy |
 ||
