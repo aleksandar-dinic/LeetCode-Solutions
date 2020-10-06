@@ -10,7 +10,7 @@
 
 </br>
 
-`164 Solved` - `💚 Easy 78` `💛 Medium 75` `❤️ Hard 11`
+`165 Solved` - `💚 Easy 78` `💛 Medium 76` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -171,6 +171,7 @@
 | ✅ | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/678%20Valid%20Parenthesis%20String.swift) | 💛 Medium |
 ||
 | ✅ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/700%20Search%20in%20a%20Binary%20Search%20Tree.swift) | 💚 Easy |
+| ✅ | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/701%20Insert%20into%20a%20Binary%20Search%20Tree.swift) | 💛 Medium |
 | ✅ | 708 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/708%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/713%20Subarray%20Product%20Less%20Than%20K.swift) | 💛 Medium |
 | ✅ | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/733%20Flood%20Fill.swift) | 💚 Easy |
