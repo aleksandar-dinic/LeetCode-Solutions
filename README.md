@@ -10,7 +10,7 @@
 
 </br>
 
-`165 Solved` - `💚 Easy 78` `💛 Medium 76` `❤️ Hard 11`
+`166 Solved` - `💚 Easy 78` `💛 Medium 77` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -56,6 +56,7 @@
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/57%20Insert%20Interval.swift) | ❤️ Hard |
 | ✅ | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/58%20Length%20of%20Last%20Word.swift) | 💚 Easy |
+| ✅ | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/61%20Rotate%20List.swift) | 💛 Medium |
 | ✅ | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/62%20Unique%20Paths.swift) | 💛 Medium |
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
 | ✅ | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/67%20Add%20Binary.swift) | 💚 Easy |
