@@ -10,7 +10,7 @@
 
 </br>
 
-`171 Solved` - `💚 Easy 79` `💛 Medium 81` `❤️ Hard 11`
+`172 Solved` - `💚 Easy 80` `💛 Medium 81` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -185,6 +185,7 @@
 | ✅ | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/797%20All%20Paths%20From%20Source%20to%20Target.swift) | 💛 Medium |
 ||
 | ✅ | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/824%20Goat%20Latin.swift) | 💚 Easy |
+| ✅ | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/859%20Buddy%20Strings.swift) | 💚 Easy |
 | ✅ | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/876%20Middle%20of%20the%20Linked%20List.swift) | 💚 Easy |
 ||
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
