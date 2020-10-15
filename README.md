@@ -10,7 +10,7 @@
 
 </br>
 
-`175 Solved` - `💚 Easy 80` `💛 Medium 84` `❤️ Hard 11`
+`176 Solved` - `💚 Easy 80` `💛 Medium 85` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -96,6 +96,7 @@
 | ✅ | 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/174%20Dungeon%20Game.swift) | ❤️ Hard |
 | ✅ | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/179%20Largest%20Number.swift) | 💛 Medium |
 | ✅ | 186 | [Reverse Words in a String II](https://leetcode.com/problems/reverse-words-in-a-string-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/186%20Reverse%20Words%20in%20a%20String%20II.swift) | 💛 Medium |
+| ✅ | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/189%20Rotate%20Array.swift) | 💛 Medium |
 | ✅ | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/198%20House%20Robber.swift) | 💚 Easy |
 ||
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/203%20Remove%20Linked%20List%20Elements.swift) | 💚 Easy |
