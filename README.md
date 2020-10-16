@@ -10,7 +10,7 @@
 
 </br>
 
-`177 Solved` - `💚 Easy 81` `💛 Medium 85` `❤️ Hard 11`
+`178 Solved` - `💚 Easy 81` `💛 Medium 86` `❤️ Hard 11`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -61,6 +61,7 @@
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
 | ✅ | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/67%20Add%20Binary.swift) | 💚 Easy |
 | ✅ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/70%20Climbing%20Stairs.swift) | 💚 Easy |
+| ✅ | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/74%20Search%20a%202D%20Matrix.swift) | 💛 Medium |
 | ✅ | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/75%20Sort%20Colors.swift) | 💛 Medium |
 | ✅ | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/79%20Word%20Search.swift) | 💛 Medium |
 | ✅ | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/83%20Remove%20Duplicates%20from%20Sorted%20List.swift) | 💚 Easy |
