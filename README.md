@@ -10,7 +10,7 @@
 
 </br>
 
-`180 Solved` - `💚 Easy 81` `💛 Medium 87` `❤️ Hard 12`
+`181 Solved` - `💚 Easy 81` `💛 Medium 88` `❤️ Hard 12`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -211,6 +211,7 @@
 | ✅ | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/994%20Rotting%20Oranges.swift) | 💛 Medium |
 | ✅ | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/900-999/997%20Find%20the%20Town%20Judge.swift) | 💚 Easy |
 ||
+| ✅ | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.swift) | 💛 Medium |
 | ✅ | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1009%20Complement%20of%20Base%2010%20Integer.swift) | 💚 Easy |
 | ✅ | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1022%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.swift) | 💚 Easy |
 | ✅ | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1032%20Stream%20of%20Characters.swift) | ❤️ Hard |
