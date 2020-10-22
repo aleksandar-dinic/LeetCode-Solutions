@@ -10,7 +10,7 @@
 
 </br>
 
-`184 Solved` - `💚 Easy 81` `💛 Medium 91` `❤️ Hard 12`
+`185 Solved` - `💚 Easy 81` `💛 Medium 92` `❤️ Hard 12`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -186,6 +186,7 @@
 ||
 | ✅ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/700%20Search%20in%20a%20Binary%20Search%20Tree.swift) | 💚 Easy |
 | ✅ | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/701%20Insert%20into%20a%20Binary%20Search%20Tree.swift) | 💛 Medium |
+| ✅ | 702 | [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/702%20Search%20in%20a%20Sorted%20Array%20of%20Unknown%20Size.swift) | 💛 Medium |
 | ✅ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/704%20Binary%20Search.swift) | 💚 Easy |
 | ✅ | 708 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/708%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/713%20Subarray%20Product%20Less%20Than%20K.swift) | 💛 Medium |
