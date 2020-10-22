@@ -10,7 +10,7 @@
 
 </br>
 
-`185 Solved` - `💚 Easy 81` `💛 Medium 92` `❤️ Hard 12`
+`186 Solved` - `💚 Easy 82` `💛 Medium 92` `❤️ Hard 12`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -69,6 +69,7 @@
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/100%20Same%20Tree.swift) | 💚 Easy |
 | ✅ | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/103%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.swift) | 💛 Medium |
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/107%20Binary%20Tree%20Level%20Order%20Traversal%20II.swift) | 💚 Easy |
+| ✅ | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/111%20Minimum%20Depth%20of%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/118%20Pascal%27s%20Triangle.swift) | 💚 Easy |
 | ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/119%20Pascal%27s%20Triangle%20II.swift) | 💚 Easy |
 | ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.swift) | 💚 Easy |
