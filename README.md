@@ -10,7 +10,7 @@
 
 </br>
 
-`189 Solved` - `💚 Easy 82` `💛 Medium 94` `❤️ Hard 13`
+`190 Solved` - `💚 Easy 82` `💛 Medium 95` `❤️ Hard 13`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -197,6 +197,7 @@
 | ✅ | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/763%20Partition%20Labels.swift) | 💛 Medium |
 | ✅ | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/771%20Jewels%20and%20Stones.swift) | 💚 Easy |
 | ✅ | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/797%20All%20Paths%20From%20Source%20to%20Target.swift) | 💛 Medium |
+| ✅ | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/799%20Champagne%20Tower.swift) | 💛 Medium |
 ||
 | ✅ | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/824%20Goat%20Latin.swift) | 💚 Easy |
 | ✅ | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/859%20Buddy%20Strings.swift) | 💚 Easy |
