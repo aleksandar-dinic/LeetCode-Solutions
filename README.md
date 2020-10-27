@@ -10,7 +10,7 @@
 
 </br>
 
-`190 Solved` - `💚 Easy 82` `💛 Medium 95` `❤️ Hard 13`
+`191 Solved` - `💚 Easy 82` `💛 Medium 96` `❤️ Hard 13`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -83,6 +83,7 @@
 | ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/136%20Single%20Number.swift) | 💚 Easy |
 | ✅ | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/139%20Word%20Break.swift) | 💛 Medium |
 | ✅ | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/140%20Word%20Break%20II.swift) | ❤️ Hard |
+| ✅ | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/142%20Linked%20List%20Cycle%20II.swift) | 💛 Medium |
 | ✅ | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/143%20Reorder%20List.swift) | 💛 Medium |
 | ✅ | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/148%20Sort%20List.swift) | 💛 Medium |
 | ✅ | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/150%20Evaluate%20Reverse%20Polish%20Notation.swift) | 💛 Medium |
