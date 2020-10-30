@@ -10,7 +10,7 @@
 
 </br>
 
-`193 Solved` - `💚 Easy 83` `💛 Medium 97` `❤️ Hard 13`
+`194 Solved` - `💚 Easy 83` `💛 Medium 98` `❤️ Hard 13`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -186,6 +186,7 @@
 | ✅ | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/621%20Task%20Scheduler.swift) | 💛 Medium |
 | ✅ | 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/624%20Maximum%20Distance%20in%20Arrays.swift) | 💚 Easy |
 | ✅ | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/662%20Maximum%20Width%20of%20Binary%20Tree.swift) | 💛 Medium |
+| ✅ | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/673%20Number%20of%20Longest%20Increasing%20Subsequence.swift) | 💛 Medium |
 | ✅ | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/678%20Valid%20Parenthesis%20String.swift) | 💛 Medium |
 ||
 | ✅ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/700-799/700%20Search%20in%20a%20Binary%20Search%20Tree.swift) | 💚 Easy |
