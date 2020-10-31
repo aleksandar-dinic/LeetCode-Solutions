@@ -6,7 +6,7 @@
 //  Copyright © 2020 Aleksandar Dinic. All rights reserved.
 //
 
-import Foundations
+import Foundation
 
 /// Source: https://leetcode.com/problems/sort-colors/
 class Solution {
@@ -17,7 +17,7 @@ class Solution {
     ///   represent the color red, white, and blue respectively.
     ///
     /// - Complexity:
-    ///   - time: O(n), where n is the length of the nums.
+    ///   - time: O(n), where n is the length of the `nums`.
     ///   - space: O(1), only constant space is used.
     func sortColors(_ nums: inout [Int]) {
         var zeroIndex = 0
