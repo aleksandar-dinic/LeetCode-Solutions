@@ -6,7 +6,7 @@
 //  Copyright © 2020 Aleksandar Dinic. All rights reserved.
 //
 
-import Foundations
+import Foundation
 
 /// Source: https://leetcode.com/problems/remove-duplicates-from-sorted-list/
 class Solution {
