@@ -6,7 +6,7 @@
 //  Copyright © 2020 Aleksandar Dinic. All rights reserved.
 //
 
-import Foundations
+import Foundation
 
 /// Source: https://leetcode.com/problems/search-a-2d-matrix/
 class Solution {
