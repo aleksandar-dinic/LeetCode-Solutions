@@ -6,7 +6,7 @@
 //  Copyright © 2020 Aleksandar Dinic. All rights reserved.
 //
 
-import Foundations
+import Foundation
 
 /// Source: https://leetcode.com/problems/plus-one/
 class Solution {
@@ -17,8 +17,8 @@ class Solution {
     /// - Returns: Given integer plus one represented as an array.
     ///
     /// - Complexity:
-    ///   - time: O(n), where n is the length of the digits.
-    ///   - space: O(n), where n is the length of the digits.
+    ///   - time: O(n), where n is the length of the `digits`.
+    ///   - space: O(n), where n is the length of the `digits`.
     func plusOne(_ digits: [Int]) -> [Int] {
         var digits = digits
 
