@@ -6,7 +6,7 @@
 //  Copyright © 2020 Aleksandar Dinic. All rights reserved.
 //
 
-import Foundations
+import Foundation
 
 /// Source: https://leetcode.com/problems/add-binary/
 class Solution {
@@ -19,8 +19,8 @@ class Solution {
     /// - Returns: Binary string sum.
     ///
     /// - Complexity:
-    ///   - time: O(n + m), where n is the length of the a and m is the length of the b.
-    ///   - space: O(n + m), where n is the length of the a and m is the length of the b.
+    ///   - time: O(n + m), where n is the length of the `a` and m is the length of the `b`.
+    ///   - space: O(n + m), where n is the length of the `a` and m is the length of the `b`.
     func addBinary(_ a: String, _ b: String) -> String {
         guard !a.isEmpty else { return b }
         guard !b.isEmpty else { return a }
