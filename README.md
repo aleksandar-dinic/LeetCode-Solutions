@@ -10,7 +10,7 @@
 
 </br>
 
-`195 Solved` - `💚 Easy 83` `💛 Medium 98` `❤️ Hard 14`
+`196 Solved` - `💚 Easy 84` `💛 Medium 98` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -237,6 +237,7 @@
 ||
 | ✅ | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1286%20Iterator%20for%20Combination.swift) | 💛 Medium |
 | ✅ | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1288%20Remove%20Covered%20Intervals.swift) | 💛 Medium |
+| ✅ | 1290 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1290%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer.swift) | 💚 Easy |
 | ✅ | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1291%20Sequential%20Digits.swift) | 💛 Medium |
 | ✅ | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.swift) | 💚 Easy |
 ||
