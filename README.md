@@ -10,7 +10,7 @@
 
 </br>
 
-`197 Solved` - `💚 Easy 85` `💛 Medium 98` `❤️ Hard 14`
+`198 Solved` - `💚 Easy 85` `💛 Medium 99` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -86,6 +86,7 @@
 | ✅ | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/140%20Word%20Break%20II.swift) | ❤️ Hard |
 | ✅ | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/142%20Linked%20List%20Cycle%20II.swift) | 💛 Medium |
 | ✅ | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/143%20Reorder%20List.swift) | 💛 Medium |
+| ✅ | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/147%20Insertion%20Sort%20List.swift) | 💛 Medium |
 | ✅ | 148 | [Sort List](https://leetcode.com/problems/sort-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/148%20Sort%20List.swift) | 💛 Medium |
 | ✅ | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/150%20Evaluate%20Reverse%20Polish%20Notation.swift) | 💛 Medium |
 | ✅ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/151%20Reverse%20Words%20in%20a%20String.swift) | 💛 Medium |
