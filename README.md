@@ -10,7 +10,7 @@
 
 </br>
 
-`198 Solved` - `💚 Easy 85` `💛 Medium 99` `❤️ Hard 14`
+`199 Solved` - `💚 Easy 86` `💛 Medium 99` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -245,4 +245,7 @@
 ||
 | ✅ | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1300-1399/1344%20Angle%20Between%20Hands%20of%20a%20Clock.swift) | 💛 Medium |
 | ✅ | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1300-1399/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.swift) | 💚 Easy |
+||
+| ✅ | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1400-1499/1446%20Consecutive%20Characters.swift) | 💚 Easy |
+||
 | ✅ | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1500-1599/1510%20Stone%20Game%20IV.swift) | ❤️ Hard |
