@@ -10,7 +10,7 @@
 
 </br>
 
-`199 Solved` - `💚 Easy 86` `💛 Medium 99` `❤️ Hard 14`
+`200 Solved` - `💚 Easy 86` `💛 Medium 100` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -138,6 +138,7 @@
 | ✅ | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/200-299/299%20Bulls%20and%20Cows.swift) | 💚 Easy |
 ||
 | ✅ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.swift) | 💛 Medium |
+| ✅ | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/310%20Minimum%20Height%20Trees.swift) | 💛 Medium |
 | ✅ | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/316%20Remove%20Duplicate%20Letters.swift) | 💛 Medium |
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/342%20Power%20of%20Four.swift) | 💚 Easy |
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
