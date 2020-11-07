@@ -10,7 +10,7 @@
 
 </br>
 
-`202 Solved` - `💚 Easy 87` `💛 Medium 101` `❤️ Hard 14`
+`203 Solved` - `💚 Easy 87` `💛 Medium 102` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -165,6 +165,7 @@
 | ✅ | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/437%20Path%20Sum%20III.swift) | 💛 Medium |
 | ✅ | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/441%20Arranging%20Coins.swift) | 💚 Easy |
 | ✅ | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/442%20Find%20All%20Duplicates%20in%20an%20Array.swift) | 💛 Medium |
+| ✅ | 445 | [Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/445%20Add%20Two%20Numbers%20II.swift) | 💛 Medium |
 | ✅ | 449 | [Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/449%20Serialize%20and%20Deserialize%20BST.swift) | 💛 Medium |
 | ✅ | 450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/450%20Delete%20Node%20in%20a%20BST.swift) | 💛 Medium |
 | ✅ | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/452%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons.swift) | 💛 Medium |
