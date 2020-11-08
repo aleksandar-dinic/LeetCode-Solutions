@@ -10,7 +10,7 @@
 
 </br>
 
-`203 Solved` - `💚 Easy 87` `💛 Medium 102` `❤️ Hard 14`
+`204 Solved` - `💚 Easy 88` `💛 Medium 102` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -236,6 +236,7 @@
 | ✅ | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1041%20Robot%20Bounded%20In%20Circle.swift) | 💛 Medium |
 | ✅ | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1081%20Smallest%20Subsequence%20of%20Distinct%20Characters.swift) | 💛 Medium |
 | ✅ | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1094%20Car%20Pooling.swift) | 💛 Medium |
+| ✅ | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1099%20Two%20Sum%20Less%20Than%20K.swift) | 💚 Easy |
 ||
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
 ||
