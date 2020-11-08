@@ -10,7 +10,7 @@
 
 </br>
 
-`204 Solved` - `💚 Easy 88` `💛 Medium 102` `❤️ Hard 14`
+`205 Solved` - `💚 Easy 89` `💛 Medium 102` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -187,6 +187,7 @@
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
 | ✅ | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/532%20K-diff%20Pairs%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
+| ✅ | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/500-599/563%20Binary%20Tree%20Tilt.swift) | 💚 Easy |
 ||
 | ✅ | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/621%20Task%20Scheduler.swift) | 💛 Medium |
 | ✅ | 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/600-699/624%20Maximum%20Distance%20in%20Arrays.swift) | 💚 Easy |
