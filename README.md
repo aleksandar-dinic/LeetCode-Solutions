@@ -10,7 +10,7 @@
 
 </br>
 
-`208 Solved` - `💚 Easy 90` `💛 Medium 104` `❤️ Hard 14`
+`209 Solved` - `💚 Easy 90` `💛 Medium 105` `❤️ Hard 14`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -52,6 +52,7 @@
 |  | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | 💛 Medium |
 | ✅ | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/39%20Combination%20Sum.swift) | 💛 Medium |
 | ✅ | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/41%20First%20Missing%20Positive.swift) | ❤️ Hard |
+| ✅ | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/47%20Permutations%20II.swift) | 💛 Medium |
 | ✅ | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/50%20Pow(x,%20n).swift) | 💛 Medium |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
 | ✅ | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/57%20Insert%20Interval.swift) | ❤️ Hard |
