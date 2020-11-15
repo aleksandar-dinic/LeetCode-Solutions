@@ -10,7 +10,7 @@
 
 </br>
 
-`212 Solved` - `💚 Easy 91` `💛 Medium 106` `❤️ Hard 15`
+`213 Solved` - `💚 Easy 91` `💛 Medium 107` `❤️ Hard 15`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -249,6 +249,7 @@
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
 ||
 | ✅ | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1217%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.swift) | 💚 Easy |
+| ✅ | 1272 | [Remove Interval](https://leetcode.com/problems/remove-interval/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1272%20Remove%20Interval.swift) | 💛 Medium |
 | ✅ | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1283%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.swift) | 💛 Medium |
 | ✅ | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1286%20Iterator%20for%20Combination.swift) | 💛 Medium |
 | ✅ | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1288%20Remove%20Covered%20Intervals.swift) | 💛 Medium |
