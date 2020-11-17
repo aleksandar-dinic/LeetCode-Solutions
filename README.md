@@ -10,7 +10,7 @@
 
 </br>
 
-`214 Solved` - `💚 Easy 91` `💛 Medium 108` `❤️ Hard 15`
+`215 Solved` - `💚 Easy 91` `💛 Medium 109` `❤️ Hard 15`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -216,6 +216,7 @@
 | ✅ | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/832%20Flipping%20an%20Image.swift) | 💚 Easy |
 | ✅ | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/845%20Longest%20Mountain%20in%20Array.swift) | 💛 Medium |
 | ✅ | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/849%20Maximize%20Distance%20to%20Closest%20Person.swift) | 💛 Medium |
+| ✅ | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/858%20Mirror%20Reflection.swift) | 💛 Medium |
 | ✅ | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/859%20Buddy%20Strings.swift) | 💚 Easy |
 | ✅ | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/800-899/876%20Middle%20of%20the%20Linked%20List.swift) | 💚 Easy |
 ||
