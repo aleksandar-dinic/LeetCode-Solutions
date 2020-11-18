@@ -10,7 +10,7 @@
 
 </br>
 
-`215 Solved` - `💚 Easy 91` `💛 Medium 109` `❤️ Hard 15`
+`216 Solved` - `💚 Easy 91` `💛 Medium 110` `❤️ Hard 15`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -55,6 +55,7 @@
 | ✅ | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/47%20Permutations%20II.swift) | 💛 Medium |
 | ✅ | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/50%20Pow(x,%20n).swift) | 💛 Medium |
 | ✅ | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/55%20Jump%20Game.swift) | 💛 Medium |
+| ✅ | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/56%20Merge%20Intervals.swift) | 💛 Medium |
 | ✅ | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/57%20Insert%20Interval.swift) | ❤️ Hard |
 | ✅ | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/58%20Length%20of%20Last%20Word.swift) | 💚 Easy |
 | ✅ | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/61%20Rotate%20List.swift) | 💛 Medium |
