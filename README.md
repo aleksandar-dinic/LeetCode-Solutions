@@ -10,7 +10,7 @@
 
 </br>
 
-`217 Solved` - `💚 Easy 91` `💛 Medium 111` `❤️ Hard 15`
+`218 Solved` - `💚 Easy 92` `💛 Medium 111` `❤️ Hard 15`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -71,6 +71,7 @@
 ||
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/100%20Same%20Tree.swift) | 💚 Easy |
 | ✅ | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/103%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.swift) | 💛 Medium |
+| ✅ | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/104%20Maximum%20Depth%20of%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/107%20Binary%20Tree%20Level%20Order%20Traversal%20II.swift) | 💚 Easy |
 | ✅ | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/111%20Minimum%20Depth%20of%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/100-199/116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.swift) | 💛 Medium |
