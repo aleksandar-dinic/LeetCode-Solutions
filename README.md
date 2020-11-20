@@ -10,7 +10,7 @@
 
 </br>
 
-`218 Solved` - `💚 Easy 92` `💛 Medium 111` `❤️ Hard 15`
+`219 Solved` - `💚 Easy 92` `💛 Medium 112` `❤️ Hard 15`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -66,6 +66,7 @@
 | ✅ | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/74%20Search%20a%202D%20Matrix.swift) | 💛 Medium |
 | ✅ | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/75%20Sort%20Colors.swift) | 💛 Medium |
 | ✅ | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/79%20Word%20Search.swift) | 💛 Medium |
+| ✅ | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/81%20Search%20in%20Rotated%20Sorted%20Array%20II.swift) | 💛 Medium |
 | ✅ | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/83%20Remove%20Duplicates%20from%20Sorted%20List.swift) | 💚 Easy |
 | ✅ | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/99%20Recover%20Binary%20Search%20Tree.swift) | ❤️ Hard |
 ||
