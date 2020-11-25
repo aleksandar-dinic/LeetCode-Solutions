@@ -10,7 +10,7 @@
 
 </br>
 
-`224 Solved` - `💚 Easy 94` `💛 Medium 114` `❤️ Hard 16`
+`225 Solved` - `💚 Easy 94` `💛 Medium 115` `❤️ Hard 16`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -248,6 +248,7 @@
 ||
 | ✅ | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.swift) | 💛 Medium |
 | ✅ | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1009%20Complement%20of%20Base%2010%20Integer.swift) | 💚 Easy |
+| ✅ | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1015%20Smallest%20Integer%20Divisible%20by%20K.swift) | 💛 Medium |
 | ✅ | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1022%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.swift) | 💚 Easy |
 | ✅ | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1026%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.swift) | 💛 Medium |
 | ✅ | 1032 | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1000-1099/1032%20Stream%20of%20Characters.swift) | ❤️ Hard |
