@@ -10,7 +10,7 @@
 
 </br>
 
-`226 Solved` - `💚 Easy 94` `💛 Medium 116` `❤️ Hard 16`
+`227 Solved` - `💚 Easy 94` `💛 Medium 117` `❤️ Hard 16`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -168,6 +168,7 @@
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
 | ✅ | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/412%20Fizz%20Buzz.swift) | 💚 Easy |
 | ✅ | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/414%20Third%20Maximum%20Number.swift) | 💚 Easy |
+| ✅ | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/416%20Partition%20Equal%20Subset%20Sum.swift) | 💛 Medium |
 | ✅ | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/421%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 430 | [Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/430%20Flatten%20a%20Multilevel%20Doubly%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/400-499/435%20Non-overlapping%20Intervals.swift) | 💛 Medium |
