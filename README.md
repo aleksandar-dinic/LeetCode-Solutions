@@ -10,7 +10,7 @@
 
 </br>
 
-`228 Solved` - `💚 Easy 94` `💛 Medium 117` `❤️ Hard 17`
+`229 Solved` - `💚 Easy 94` `💛 Medium 118` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -272,6 +272,7 @@
 | ✅ | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1291%20Sequential%20Digits.swift) | 💛 Medium |
 | ✅ | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1200-1299/1295%20Find%20Numbers%20with%20Even%20Number%20of%20Digits.swift) | 💚 Easy |
 ||
+| ✅ | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1300-1399/1306%20Jump%20Game%20III.swift) | 💛 Medium |
 | ✅ | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1300-1399/1344%20Angle%20Between%20Hands%20of%20a%20Clock.swift) | 💛 Medium |
 | ✅ | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/1300-1399/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.swift) | 💚 Easy |
 ||
