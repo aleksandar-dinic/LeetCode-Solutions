@@ -10,7 +10,7 @@
 
 </br>
 
-`229 Solved` - `💚 Easy 94` `💛 Medium 118` `❤️ Hard 17`
+`230 Solved` - `💚 Easy 94` `💛 Medium 119` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -29,7 +29,7 @@
 | ✅ | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/13%20Roman%20to%20Integer.swift) | 💚 Easy |
 | | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | 💚 Easy |
 | ✅ | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/15%203Sum.swift) | 💛 Medium |
-| | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | | 💛 Medium |
+| ✅ | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/16%203Sum%20Closest.swift) | 💛 Medium |
 | ✅ | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/17%20Letter%20Combinations%20of%20a%20Phone%20Number.swift) | 💛 Medium |
 | | 18 | [4Sum](https://leetcode.com/problems/4sum/) | | 💛 Medium |
 | ✅ | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/master/Solutions/000-099/19%20Remove%20Nth%20Node%20From%20End%20of%20List.swift) | 💛 Medium |
