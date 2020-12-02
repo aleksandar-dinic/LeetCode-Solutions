@@ -10,7 +10,7 @@
 
 </br>
 
-`232 Solved` - `💚 Easy 96` `💛 Medium 119` `❤️ Hard 17`
+`233 Solved` - `💚 Easy 96` `💛 Medium 120` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -159,6 +159,7 @@
 | ✅ | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/359%20Logger%20Rate%20Limiter.swift) | 💚 Easy |
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/367%20Valid%20Perfect%20Square.swift) | 💚 Easy |
 | ✅ | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/380%20Insert%20Delete%20GetRandom%20O(1).swift) | 💛 Medium |
+| ✅ | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/382%20Linked%20List%20Random%20Node.swift) | 💛 Medium |
 | ✅ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/383%20Ransom%20Note.swift) | 💚 Easy |
 | ✅ | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/387%20First%20Unique%20Character%20in%20a%20String.swift) | 💚 Easy |
 | ✅ | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/389%20Find%20the%20Difference.swift) | 💚 Easy |
