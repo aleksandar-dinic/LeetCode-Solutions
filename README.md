@@ -10,7 +10,7 @@
 
 </br>
 
-`233 Solved` - `💚 Easy 96` `💛 Medium 120` `❤️ Hard 17`
+`234 Solved` - `💚 Easy 97` `💛 Medium 120` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -233,6 +233,7 @@
 | ✅ | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/858%20Mirror%20Reflection.swift) | 💛 Medium |
 | ✅ | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/859%20Buddy%20Strings.swift) | 💚 Easy |
 | ✅ | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/876%20Middle%20of%20the%20Linked%20List.swift) | 💚 Easy |
+| ✅ | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/897%20Increasing%20Order%20Search%20Tree.swift) | 💚 Easy |
 ||
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
 | ✅ | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/902%20Numbers%20At%20Most%20N%20Given%20Digit%20Set.swift) | ❤️ Hard |
