@@ -10,7 +10,7 @@
 
 </br>
 
-`234 Solved` - `💚 Easy 97` `💛 Medium 120` `❤️ Hard 17`
+`235 Solved` - `💚 Easy 97` `💛 Medium 121` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -281,5 +281,6 @@
 | ✅ | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.swift) | 💚 Easy |
 ||
 | ✅ | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1446%20Consecutive%20Characters.swift) | 💚 Easy |
+| ✅ | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1492%20The%20kth%20Factor%20of%20n.swift) | 💛 Medium |
 ||
 | ✅ | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1500-1599/1510%20Stone%20Game%20IV.swift) | ❤️ Hard |
