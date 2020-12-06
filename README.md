@@ -10,7 +10,7 @@
 
 </br>
 
-`236 Solved` - `💚 Easy 98` `💛 Medium 121` `❤️ Hard 17`
+`237 Solved` - `💚 Easy 98` `💛 Medium 122` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -77,6 +77,7 @@
 | ✅ | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/108%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.swift) | 💚 Easy |
 | ✅ | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/111%20Minimum%20Depth%20of%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.swift) | 💛 Medium |
+| ✅ | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/117%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.swift) | 💛 Medium |
 | ✅ | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/118%20Pascal%27s%20Triangle.swift) | 💚 Easy |
 | ✅ | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/119%20Pascal%27s%20Triangle%20II.swift) | 💚 Easy |
 | ✅ | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/121%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.swift) | 💚 Easy |
