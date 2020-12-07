@@ -10,7 +10,7 @@
 
 </br>
 
-`237 Solved` - `💚 Easy 98` `💛 Medium 122` `❤️ Hard 17`
+`238 Solved` - `💚 Easy 98` `💛 Medium 123` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -58,6 +58,7 @@
 | ✅ | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/56%20Merge%20Intervals.swift) | 💛 Medium |
 | ✅ | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/57%20Insert%20Interval.swift) | ❤️ Hard |
 | ✅ | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/58%20Length%20of%20Last%20Word.swift) | 💚 Easy |
+| ✅ | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/59%20Spiral%20Matrix%20II.swift) | 💛 Medium |
 | ✅ | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/61%20Rotate%20List.swift) | 💛 Medium |
 | ✅ | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/62%20Unique%20Paths.swift) | 💛 Medium |
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
