@@ -10,7 +10,7 @@
 
 </br>
 
-`238 Solved` - `💚 Easy 98` `💛 Medium 123` `❤️ Hard 17`
+`239 Solved` - `💚 Easy 98` `💛 Medium 124` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -258,6 +258,7 @@
 ||
 | ✅ | 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1007%20Minimum%20Domino%20Rotations%20For%20Equal%20Row.swift) | 💛 Medium |
 | ✅ | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1009%20Complement%20of%20Base%2010%20Integer.swift) | 💚 Easy |
+| ✅ | 1010 | [Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1010%20Pairs%20of%20Songs%20With%20Total%20Durations%20Divisible%20by%2060.swift) | 💛 Medium |
 | ✅ | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1015%20Smallest%20Integer%20Divisible%20by%20K.swift) | 💛 Medium |
 | ✅ | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1022%20Sum%20of%20Root%20To%20Leaf%20Binary%20Numbers.swift) | 💚 Easy |
 | ✅ | 1026 | [Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1026%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.swift) | 💛 Medium |
