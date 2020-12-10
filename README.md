@@ -10,7 +10,7 @@
 
 </br>
 
-`241 Solved` - `💚 Easy 99` `💛 Medium 125` `❤️ Hard 17`
+`242 Solved` - `💚 Easy 100` `💛 Medium 125` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -142,6 +142,7 @@
 | ✅ | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/260%20Single%20Number%20III.swift) | 💛 Medium |
 | ✅ | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/264%20Ugly%20Number%20II.swift) | 💛 Medium |
 | ✅ | 266 | [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/266%20Palindrome%20Permutation.swift) | 💚 Easy |
+| ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/268%20Missing%20Number.swift) | 💚 Easy |
 | ✅ | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/270%20Closest%20Binary%20Search%20Tree%20Value.swift) | 💚 Easy |
 | ✅ | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/274%20H-Index.swift) | 💛 Medium |
 | ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/283%20Move%20Zeroes.swift) | 💚 Easy |
