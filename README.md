@@ -10,7 +10,7 @@
 
 </br>
 
-`240 Solved` - `💚 Easy 98` `💛 Medium 125` `❤️ Hard 17`
+`241 Solved` - `💚 Easy 99` `💛 Medium 125` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -244,6 +244,7 @@
 | ✅ | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/905%20Sort%20Array%20By%20Parity.swift) | 💚 Easy |
 | ✅ | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/933%20Number%20of%20Recent%20Calls.swift) | 💚 Easy |
 | ✅ | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/938%20Range%20Sum%20of%20BST.swift) | 💚 Easy |
+| ✅ | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/941%20Valid%20Mountain%20Array.swift) | 💚 Easy |
 | ✅ | 948 | [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/948%20Bag%20of%20Tokens.swift) | 💛 Medium |
 | ✅ | 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/949%20Largest%20Time%20for%20Given%20Digits.swift) | 💚 Easy |
 | ✅ | 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/952%20Largest%20Component%20Size%20by%20Common%20Factor.swift) | ❤️ Hard |
