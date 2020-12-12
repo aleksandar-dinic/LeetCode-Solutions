@@ -10,7 +10,7 @@
 
 </br>
 
-`243 Solved` - `💚 Easy 100` `💛 Medium 126` `❤️ Hard 17`
+`244 Solved` - `💚 Easy 100` `💛 Medium 127` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -238,6 +238,7 @@
 | ✅ | 849 | [Maximize Distance to Closest Person](https://leetcode.com/problems/maximize-distance-to-closest-person/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/849%20Maximize%20Distance%20to%20Closest%20Person.swift) | 💛 Medium |
 | ✅ | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/858%20Mirror%20Reflection.swift) | 💛 Medium |
 | ✅ | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/859%20Buddy%20Strings.swift) | 💚 Easy |
+| ✅ | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/865%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.swift) | 💛 Medium |
 | ✅ | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/876%20Middle%20of%20the%20Linked%20List.swift) | 💚 Easy |
 | ✅ | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/897%20Increasing%20Order%20Search%20Tree.swift) | 💚 Easy |
 ||
