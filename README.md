@@ -10,7 +10,7 @@
 
 </br>
 
-`244 Solved` - `💚 Easy 100` `💛 Medium 127` `❤️ Hard 17`
+`245 Solved` - `💚 Easy 100` `💛 Medium 128` `❤️ Hard 17`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -275,6 +275,7 @@
 | ✅ | 1099 | [Two Sum Less Than K](https://leetcode.com/problems/two-sum-less-than-k/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1099%20Two%20Sum%20Less%20Than%20K.swift) | 💚 Easy |
 ||
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
+| ✅ | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1100-1199/1123%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.swift) | 💛 Medium |
 ||
 | ✅ | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1217%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.swift) | 💚 Easy |
 | ✅ | 1272 | [Remove Interval](https://leetcode.com/problems/remove-interval/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1272%20Remove%20Interval.swift) | 💛 Medium |
