@@ -10,7 +10,7 @@
 
 </br>
 
-`245 Solved` - `💚 Easy 100` `💛 Medium 128` `❤️ Hard 17`
+`246 Solved` - `💚 Easy 100` `💛 Medium 128` `❤️ Hard 18`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -154,6 +154,7 @@
 ||
 | ✅ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.swift) | 💛 Medium |
 | ✅ | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/310%20Minimum%20Height%20Trees.swift) | 💛 Medium |
+| ✅ | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/312%20Burst%20Balloons.swift) | ❤️ Hard |
 | ✅ | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/316%20Remove%20Duplicate%20Letters.swift) | 💛 Medium |
 | ✅ | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/337%20House%20Robber%20III.swift) | 💛 Medium |
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/342%20Power%20of%20Four.swift) | 💚 Easy |
