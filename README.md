@@ -10,7 +10,7 @@
 
 </br>
 
-`247 Solved` - `💚 Easy 100` `💛 Medium 129` `❤️ Hard 18`
+`248 Solved` - `💚 Easy 100` `💛 Medium 130` `❤️ Hard 18`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -165,6 +165,7 @@
 | ✅ | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/349%20Intersection%20of%20Two%20Arrays.swift) | 💚 Easy |
 | ✅ | 359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/359%20Logger%20Rate%20Limiter.swift) | 💚 Easy |
 | ✅ | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/367%20Valid%20Perfect%20Square.swift) | 💚 Easy |
+| ✅ | 369 | [Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/369%20Plus%20One%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/380%20Insert%20Delete%20GetRandom%20O(1).swift) | 💛 Medium |
 | ✅ | 382 | [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/382%20Linked%20List%20Random%20Node.swift) | 💛 Medium |
 | ✅ | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/383%20Ransom%20Note.swift) | 💚 Easy |
