@@ -10,7 +10,7 @@
 
 </br>
 
-`250 Solved` - `💚 Easy 100` `💛 Medium 132` `❤️ Hard 18`
+`251 Solved` - `💚 Easy 101` `💛 Medium 132` `❤️ Hard 18`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -282,6 +282,7 @@
 | ✅ | 1103 | [Distribute Candies to People](https://leetcode.com/problems/distribute-candies-to-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1100-1199/1103%20Distribute%20Candies%20to%20People.swift) | 💚 Easy |
 | ✅ | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1100-1199/1123%20Lowest%20Common%20Ancestor%20of%20Deepest%20Leaves.swift) | 💛 Medium |
 ||
+| ✅ | 1213 | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1213%20Intersection%20of%20Three%20Sorted%20Arrays.swift) | 💚 Easy |
 | ✅ | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1217%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.swift) | 💚 Easy |
 | ✅ | 1272 | [Remove Interval](https://leetcode.com/problems/remove-interval/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1272%20Remove%20Interval.swift) | 💛 Medium |
 | ✅ | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1283%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.swift) | 💛 Medium |
