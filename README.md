@@ -10,7 +10,7 @@
 
 </br>
 
-`251 Solved` - `💚 Easy 101` `💛 Medium 132` `❤️ Hard 18`
+`252 Solved` - `💚 Easy 101` `💛 Medium 133` `❤️ Hard 18`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -158,6 +158,7 @@
 | ✅ | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/310%20Minimum%20Height%20Trees.swift) | 💛 Medium |
 | ✅ | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/312%20Burst%20Balloons.swift) | ❤️ Hard |
 | ✅ | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/316%20Remove%20Duplicate%20Letters.swift) | 💛 Medium |
+| ✅ | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/334%20Increasing%20Triplet%20Subsequence.swift) | 💛 Medium |
 | ✅ | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/337%20House%20Robber%20III.swift) | 💛 Medium |
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/342%20Power%20of%20Four.swift) | 💚 Easy |
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
