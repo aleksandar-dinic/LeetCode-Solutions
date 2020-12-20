@@ -10,7 +10,7 @@
 
 </br>
 
-`253 Solved` - `💚 Easy 101` `💛 Medium 133` `❤️ Hard 19`
+`254 Solved` - `💚 Easy 101` `💛 Medium 134` `❤️ Hard 19`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -246,6 +246,7 @@
 | ✅ | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/859%20Buddy%20Strings.swift) | 💚 Easy |
 | ✅ | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/865%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.swift) | 💛 Medium |
 | ✅ | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/876%20Middle%20of%20the%20Linked%20List.swift) | 💚 Easy |
+| ✅ | 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/880%20Decoded%20String%20at%20Index.swift) | 💛 Medium |
 | ✅ | 897 | [Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/897%20Increasing%20Order%20Search%20Tree.swift) | 💚 Easy |
 ||
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
