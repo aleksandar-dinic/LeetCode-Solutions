@@ -10,7 +10,7 @@
 
 </br>
 
-`254 Solved` - `💚 Easy 101` `💛 Medium 134` `❤️ Hard 19`
+`255 Solved` - `💚 Easy 101` `💛 Medium 135` `❤️ Hard 19`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -252,6 +252,7 @@
 | ✅ | 901 | [Online Stock Span](https://leetcode.com/problems/online-stock-span/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/901%20Online%20Stock%20Span.swift) | 💛 Medium |
 | ✅ | 902 | [Numbers At Most N Given Digit Set](https://leetcode.com/problems/numbers-at-most-n-given-digit-set/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/902%20Numbers%20At%20Most%20N%20Given%20Digit%20Set.swift) | ❤️ Hard |
 | ✅ | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/905%20Sort%20Array%20By%20Parity.swift) | 💚 Easy |
+| ✅ | 910 | [Smallest Range II](https://leetcode.com/problems/smallest-range-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/910%20Smallest%20Range%20II.swift) | 💛 Medium |
 | ✅ | 933 | [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/933%20Number%20of%20Recent%20Calls.swift) | 💚 Easy |
 | ✅ | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/938%20Range%20Sum%20of%20BST.swift) | 💚 Easy |
 | ✅ | 941 | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/941%20Valid%20Mountain%20Array.swift) | 💚 Easy |
