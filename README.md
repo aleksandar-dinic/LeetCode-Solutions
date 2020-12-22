@@ -10,7 +10,7 @@
 
 </br>
 
-`255 Solved` - `💚 Easy 101` `💛 Medium 135` `❤️ Hard 19`
+`256 Solved` - `💚 Easy 102` `💛 Medium 135` `❤️ Hard 19`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -78,6 +78,7 @@
 | ✅ | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/104%20Maximum%20Depth%20of%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/107%20Binary%20Tree%20Level%20Order%20Traversal%20II.swift) | 💚 Easy |
 | ✅ | 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/108%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree.swift) | 💚 Easy |
+| ✅ | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/110%20Balanced%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/111%20Minimum%20Depth%20of%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/116%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node.swift) | 💛 Medium |
 | ✅ | 117 | [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/117%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node%20II.swift) | 💛 Medium |
