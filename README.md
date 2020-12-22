@@ -10,7 +10,7 @@
 
 </br>
 
-`256 Solved` - `💚 Easy 102` `💛 Medium 135` `❤️ Hard 19`
+`257 Solved` - `💚 Easy 102` `💛 Medium 136` `❤️ Hard 19`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -305,3 +305,5 @@
 | ✅ | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1492%20The%20kth%20Factor%20of%20n.swift) | 💛 Medium |
 ||
 | ✅ | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1500-1599/1510%20Stone%20Game%20IV.swift) | ❤️ Hard |
+||
+| ✅ | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1602%20Find%20Nearest%20Right%20Node%20in%20Binary%20Tree.swift) | 💛 Medium |
