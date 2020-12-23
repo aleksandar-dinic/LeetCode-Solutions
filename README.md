@@ -10,7 +10,7 @@
 
 </br>
 
-`257 Solved` - `💚 Easy 102` `💛 Medium 136` `❤️ Hard 19`
+`258 Solved` - `💚 Easy 102` `💛 Medium 137` `❤️ Hard 19`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -215,6 +215,7 @@
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
 | ✅ | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/532%20K-diff%20Pairs%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
+| ✅ | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/556%20Next%20Greater%20Element%20III.swift) | 💛 Medium |
 | ✅ | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/563%20Binary%20Tree%20Tilt.swift) | 💚 Easy |
 | ✅ | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/593%20Valid%20Square.swift) | 💛 Medium |
 ||
