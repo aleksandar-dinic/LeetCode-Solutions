@@ -10,7 +10,7 @@
 
 </br>
 
-`259 Solved` - `💚 Easy 102` `💛 Medium 138` `❤️ Hard 19`
+`260 Solved` - `💚 Easy 103` `💛 Medium 138` `❤️ Hard 19`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -96,6 +96,7 @@
 | ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/136%20Single%20Number.swift) | 💚 Easy |
 | ✅ | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/139%20Word%20Break.swift) | 💛 Medium |
 | ✅ | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/140%20Word%20Break%20II.swift) | ❤️ Hard |
+| ✅ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/141%20Linked%20List%20Cycle.swift) | 💚 Easy |
 | ✅ | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/142%20Linked%20List%20Cycle%20II.swift) | 💛 Medium |
 | ✅ | 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/143%20Reorder%20List.swift) | 💛 Medium |
 | ✅ | 147 | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/147%20Insertion%20Sort%20List.swift) | 💛 Medium |
