@@ -10,7 +10,7 @@
 
 </br>
 
-`261 Solved` - `💚 Easy 103` `💛 Medium 139` `❤️ Hard 19`
+`262 Solved` - `💚 Easy 104` `💛 Medium 139` `❤️ Hard 19`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -143,6 +143,7 @@
 | ✅ | 246 | [Strobogrammatic Number](https://leetcode.com/problems/strobogrammatic-number/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/246%20Strobogrammatic%20Number.swift) | 💚 Easy |
 | ✅ | 252 | [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/252%20Meeting%20Rooms.swift) | 💚 Easy |
 | ✅ | 253 | [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/253%20Meeting%20Rooms%20II.swift) | 💛 Medium |
+| ✅ | 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/257%20Binary%20Tree%20Paths.swift) | 💚 Easy |
 | ✅ | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/258%20Add%20Digits.swift) | 💚 Easy |
 | ✅ | 260 | [Single Number III](https://leetcode.com/problems/single-number-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/260%20Single%20Number%20III.swift) | 💛 Medium |
 | ✅ | 264 | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/264%20Ugly%20Number%20II.swift) | 💛 Medium |
