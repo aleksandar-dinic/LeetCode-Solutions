@@ -10,7 +10,7 @@
 
 </br>
 
-`263 Solved` - `💚 Easy 104` `💛 Medium 140` `❤️ Hard 19`
+`264 Solved` - `💚 Easy 104` `💛 Medium 140` `❤️ Hard 20`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -303,6 +303,7 @@
 ||
 | ✅ | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1306%20Jump%20Game%20III.swift) | 💛 Medium |
 | ✅ | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1344%20Angle%20Between%20Hands%20of%20a%20Clock.swift) | 💛 Medium |
+| ✅ | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1345%20Jump%20Game%20IV.swift) | ❤️ Hard |
 | ✅ | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.swift) | 💚 Easy |
 ||
 | ✅ | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1446%20Consecutive%20Characters.swift) | 💚 Easy |
