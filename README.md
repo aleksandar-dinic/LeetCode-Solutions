@@ -10,7 +10,7 @@
 
 </br>
 
-`267 Solved` - `💚 Easy 104` `💛 Medium 143` `❤️ Hard 20`
+`268 Solved` - `💚 Easy 104` `💛 Medium 144` `❤️ Hard 20`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -154,6 +154,7 @@
 | ✅ | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/274%20H-Index.swift) | 💛 Medium |
 | ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/283%20Move%20Zeroes.swift) | 💚 Easy |
 | ✅ | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/287%20Find%20the%20Duplicate%20Number.swift) | 💛 Medium |
+| ✅ | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/289%20Game%20of%20Life.swift) | 💛 Medium |
 | ✅ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/290%20Word%20Pattern.swift) | 💚 Easy |
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
 | ✅ | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/299%20Bulls%20and%20Cows.swift) | 💚 Easy |
