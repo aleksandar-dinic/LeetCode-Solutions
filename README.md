@@ -10,7 +10,7 @@
 
 </br>
 
-`269 Solved` - `💚 Easy 104` `💛 Medium 144` `❤️ Hard 21`
+`270 Solved` - `💚 Easy 105` `💛 Medium 144` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -318,3 +318,4 @@
 | ✅ | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1500-1599/1510%20Stone%20Game%20IV.swift) | ❤️ Hard |
 ||
 | ✅ | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1602%20Find%20Nearest%20Right%20Node%20in%20Binary%20Tree.swift) | 💛 Medium |
+| ✅ | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1640%20Check%20Array%20Formation%20Through%20Concatenation.swift) | 💚 Easy |
