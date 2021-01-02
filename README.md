@@ -10,7 +10,7 @@
 
 </br>
 
-`270 Solved` - `💚 Easy 105` `💛 Medium 144` `❤️ Hard 21`
+`271 Solved` - `💚 Easy 106` `💛 Medium 144` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -153,6 +153,7 @@
 | ✅ | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/268%20Missing%20Number.swift) | 💚 Easy |
 | ✅ | 270 | [Closest Binary Search Tree Value](https://leetcode.com/problems/closest-binary-search-tree-value/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/270%20Closest%20Binary%20Search%20Tree%20Value.swift) | 💚 Easy |
 | ✅ | 274 | [H-Index](https://leetcode.com/problems/h-index/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/274%20H-Index.swift) | 💛 Medium |
+| ✅ | 276 | [Paint Fence](https://leetcode.com/problems/paint-fence/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/276%20Paint%20Fence.swift) | 💚 Easy |
 | ✅ | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/283%20Move%20Zeroes.swift) | 💚 Easy |
 | ✅ | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/287%20Find%20the%20Duplicate%20Number.swift) | 💛 Medium |
 | ✅ | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/289%20Game%20of%20Life.swift) | 💛 Medium |
