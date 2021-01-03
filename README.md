@@ -10,7 +10,7 @@
 
 </br>
 
-`271 Solved` - `💚 Easy 106` `💛 Medium 144` `❤️ Hard 21`
+`272 Solved` - `💚 Easy 106` `💛 Medium 145` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -221,6 +221,7 @@
 ||
 | ✅ | 510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/510%20Inorder%20Successor%20in%20BST%20II.swift) | 💛 Medium |
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
+| ✅ | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/526%20Beautiful%20Arrangement.swift) | 💛 Medium |
 | ✅ | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/532%20K-diff%20Pairs%20in%20an%20Array.swift) | 💛 Medium |
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
 | ✅ | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/556%20Next%20Greater%20Element%20III.swift) | 💛 Medium |
