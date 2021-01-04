@@ -10,7 +10,7 @@
 
 </br>
 
-`272 Solved` - `💚 Easy 106` `💛 Medium 145` `❤️ Hard 21`
+`273 Solved` - `💚 Easy 107` `💛 Medium 145` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -34,7 +34,7 @@
 | | 18 | [4Sum](https://leetcode.com/problems/4sum/) | | 💛 Medium |
 | ✅ | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/19%20Remove%20Nth%20Node%20From%20End%20of%20List.swift) | 💛 Medium |
 | ✅ | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/20%20Valid%20Parentheses.swift) | 💚 Easy |
-| | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | | 💚 Easy |
+| ✅ | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/21%20Merge%20Two%20Sorted%20Lists.swift) | 💚 Easy |
 | ✅ | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/22%20Generate%20Parentheses.swift) | 💛 Medium |
 | | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | | ❤️ Hard |
 | ✅ | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/24%20Swap%20Nodes%20in%20Pairs.swift) | 💛 Medium |
