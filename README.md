@@ -10,7 +10,7 @@
 
 </br>
 
-`273 Solved` - `💚 Easy 107` `💛 Medium 145` `❤️ Hard 21`
+`274 Solved` - `💚 Easy 108` `💛 Medium 145` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -159,6 +159,7 @@
 | ✅ | 289 | [Game of Life](https://leetcode.com/problems/game-of-life/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/289%20Game%20of%20Life.swift) | 💛 Medium |
 | ✅ | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/290%20Word%20Pattern.swift) | 💚 Easy |
 | ✅ | 292 | [Nim Game](https://leetcode.com/problems/nim-game/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/292%20Nim%20Game.swift) | 💚 Easy |
+| ✅ | 293 | [Flip Game](https://leetcode.com/problems/flip-game/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/293%20Flip%20Game.swift) | 💚 Easy |
 | ✅ | 299 | [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/299%20Bulls%20and%20Cows.swift) | 💚 Easy |
 ||
 | ✅ | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/309%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown.swift) | 💛 Medium |
