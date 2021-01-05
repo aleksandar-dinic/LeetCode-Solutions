@@ -10,7 +10,7 @@
 
 </br>
 
-`274 Solved` - `💚 Easy 108` `💛 Medium 145` `❤️ Hard 21`
+`275 Solved` - `💚 Easy 108` `💛 Medium 146` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -69,6 +69,7 @@
 | ✅ | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/79%20Word%20Search.swift) | 💛 Medium |
 | ✅ | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/80%20Remove%20Duplicates%20from%20Sorted%20Array%20II.swift) | 💛 Medium |
 | ✅ | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/81%20Search%20in%20Rotated%20Sorted%20Array%20II.swift) | 💛 Medium |
+| ✅ | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/82%20Remove%20Duplicates%20from%20Sorted%20List%20II.swift) | 💛 Medium |
 | ✅ | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/83%20Remove%20Duplicates%20from%20Sorted%20List.swift) | 💚 Easy |
 | ✅ | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/84%20Largest%20Rectangle%20in%20Histogram.swift) | ❤️ Hard |
 | ✅ | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/91%20Decode%20Ways.swift) | 💛 Medium |
