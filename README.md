@@ -10,7 +10,7 @@
 
 </br>
 
-`275 Solved` - `💚 Easy 108` `💛 Medium 146` `❤️ Hard 21`
+`276 Solved` - `💚 Easy 109` `💛 Medium 146` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -169,6 +169,7 @@
 | ✅ | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/316%20Remove%20Duplicate%20Letters.swift) | 💛 Medium |
 | ✅ | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/334%20Increasing%20Triplet%20Subsequence.swift) | 💛 Medium |
 | ✅ | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/337%20House%20Robber%20III.swift) | 💛 Medium |
+| ✅ | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/339%20Nested%20List%20Weight%20Sum.swift) | 💚 Easy |
 | ✅ | 340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/340%20Longest%20Substring%20with%20At%20Most%20K%20Distinct%20Characters.swift) | 💛 Medium |
 | ✅ | 342 | [Power of Four](https://leetcode.com/problems/power-of-four/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/342%20Power%20of%20Four.swift) | 💚 Easy |
 | ✅ | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/344%20Reverse%20String.swift) | 💚 Easy |
