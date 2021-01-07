@@ -10,7 +10,7 @@
 
 </br>
 
-`277 Solved` - `💚 Easy 110` `💛 Medium 146` `❤️ Hard 21`
+`278 Solved` - `💚 Easy 111` `💛 Medium 146` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -190,6 +190,7 @@
 | ✅ | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/399%20Evaluate%20Division.swift) | 💛 Medium |
 ||
 | ✅ | 404 | [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/404%20Sum%20of%20Left%20Leaves.swift) | 💚 Easy |
+| ✅ | 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/408%20Valid%20Word%20Abbreviation.swift) | 💚 Easy |
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
 | ✅ | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/412%20Fizz%20Buzz.swift) | 💚 Easy |
 | ✅ | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/414%20Third%20Maximum%20Number.swift) | 💚 Easy |
