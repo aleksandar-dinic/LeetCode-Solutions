@@ -10,7 +10,7 @@
 
 </br>
 
-`278 Solved` - `💚 Easy 111` `💛 Medium 146` `❤️ Hard 21`
+`279 Solved` - `💚 Easy 112` `💛 Medium 146` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -326,3 +326,4 @@
 ||
 | ✅ | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1602%20Find%20Nearest%20Right%20Node%20in%20Binary%20Tree.swift) | 💛 Medium |
 | ✅ | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1640%20Check%20Array%20Formation%20Through%20Concatenation.swift) | 💚 Easy |
+| ✅ | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1662%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.swift) | 💚 Easy |
