@@ -10,7 +10,7 @@
 
 </br>
 
-`279 Solved` - `💚 Easy 112` `💛 Medium 146` `❤️ Hard 21`
+`280 Solved` - `💚 Easy 112` `💛 Medium 147` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -321,6 +321,7 @@
 | ✅ | 1463 | [Cherry Pickup II](https://leetcode.com/problems/cherry-pickup-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1463%20Cherry%20Pickup%20II.swift) | ❤️ Hard |
 | ✅ | 1492 | [The kth Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1492%20The%20kth%20Factor%20of%20n.swift) | 💛 Medium |
 ||
+| ✅ | 1506 | [Find Root of N-Ary Tree](https://leetcode.com/problems/find-root-of-n-ary-tree/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1500-1599/1506%20Find%20Root%20of%20N-Ary%20Tree.swift) | 💛 Medium |
 | ✅ | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1500-1599/1510%20Stone%20Game%20IV.swift) | ❤️ Hard |
 | ✅ | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1500-1599/1539%20Kth%20Missing%20Positive%20Number.swift) | 💚 Easy |
 ||
