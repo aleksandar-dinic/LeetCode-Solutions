@@ -10,7 +10,7 @@
 
 </br>
 
-`280 Solved` - `💚 Easy 112` `💛 Medium 147` `❤️ Hard 21`
+`281 Solved` - `💚 Easy 113` `💛 Medium 147` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -77,6 +77,7 @@
 | ✅ | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/99%20Recover%20Binary%20Search%20Tree.swift) | ❤️ Hard |
 ||
 | ✅ | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/100%20Same%20Tree.swift) | 💚 Easy |
+| ✅ | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/101%20Symmetric%20Tree.swift) | 💚 Easy |
 | ✅ | 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/103%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.swift) | 💛 Medium |
 | ✅ | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/104%20Maximum%20Depth%20of%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 107 | [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/107%20Binary%20Tree%20Level%20Order%20Traversal%20II.swift) | 💚 Easy |
