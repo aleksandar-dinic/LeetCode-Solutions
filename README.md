@@ -10,7 +10,7 @@
 
 </br>
 
-`281 Solved` - `💚 Easy 113` `💛 Medium 147` `❤️ Hard 21`
+`282 Solved` - `💚 Easy 114` `💛 Medium 147` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -109,6 +109,7 @@
 | ✅ | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/151%20Reverse%20Words%20in%20a%20String.swift) | 💛 Medium |
 | ✅ | 152 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/152%20Maximum%20Product%20Subarray.swift) | 💛 Medium |
 | ✅ | 154 | [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/154%20Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II.swift) | ❤️ Hard |
+| ✅ | 155 | [Min Stack](https://leetcode.com/problems/min-stack/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/155%20Min%20Stack.swift) | 💚 Easy |
 | ✅ | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/156%20Binary%20Tree%20Upside%20Down.swift) | 💛 Medium |
 | ✅ | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/157%20Read%20N%20Characters%20Given%20Read4.swift) | 💚 Easy |
 | ✅ | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/159%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.swift) | 💛 Medium |
