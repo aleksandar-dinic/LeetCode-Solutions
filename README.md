@@ -10,7 +10,7 @@
 
 </br>
 
-`282 Solved` - `💚 Easy 114` `💛 Medium 147` `❤️ Hard 21`
+`283 Solved` - `💚 Easy 115` `💛 Medium 147` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -72,6 +72,7 @@
 | ✅ | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/82%20Remove%20Duplicates%20from%20Sorted%20List%20II.swift) | 💛 Medium |
 | ✅ | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/83%20Remove%20Duplicates%20from%20Sorted%20List.swift) | 💚 Easy |
 | ✅ | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/84%20Largest%20Rectangle%20in%20Histogram.swift) | ❤️ Hard |
+| ✅ | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/88%20Merge%20Sorted%20Array.swift) | 💚 Easy |
 | ✅ | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/91%20Decode%20Ways.swift) | 💛 Medium |
 | ✅ | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/98%20Validate%20Binary%20Search%20Tree.swift) | 💛 Medium |
 | ✅ | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/99%20Recover%20Binary%20Search%20Tree.swift) | ❤️ Hard |
