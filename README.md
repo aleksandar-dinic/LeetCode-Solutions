@@ -10,7 +10,7 @@
 
 </br>
 
-`286 Solved` - `💚 Easy 117` `💛 Medium 148` `❤️ Hard 21`
+`287 Solved` - `💚 Easy 117` `💛 Medium 149` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -333,4 +333,5 @@
 ||
 | ✅ | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1602%20Find%20Nearest%20Right%20Node%20in%20Binary%20Tree.swift) | 💛 Medium |
 | ✅ | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1640%20Check%20Array%20Formation%20Through%20Concatenation.swift) | 💚 Easy |
+| ✅ | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1658%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.swift) | 💛 Medium |
 | ✅ | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1662%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.swift) | 💚 Easy |
