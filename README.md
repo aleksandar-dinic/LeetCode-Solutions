@@ -10,7 +10,7 @@
 
 </br>
 
-`290 Solved` - `💚 Easy 118` `💛 Medium 151` `❤️ Hard 21`
+`291 Solved` - `💚 Easy 118` `💛 Medium 152` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -338,3 +338,4 @@
 | ✅ | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1646%20Get%20Maximum%20in%20Generated%20Array.swift) | 💚 Easy |
 | ✅ | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1658%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.swift) | 💛 Medium |
 | ✅ | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1662%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.swift) | 💚 Easy |
+| ✅ | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1679%20Max%20Number%20of%20K-Sum%20Pairs.swift) | 💛 Medium |
