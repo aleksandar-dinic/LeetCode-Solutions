@@ -10,7 +10,7 @@
 
 </br>
 
-`292 Solved` - `💚 Easy 118` `💛 Medium 153` `❤️ Hard 21`
+`293 Solved` - `💚 Easy 119` `💛 Medium 153` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -251,6 +251,7 @@
 | ✅ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/704%20Binary%20Search.swift) | 💚 Easy |
 | ✅ | 708 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/708%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/713%20Subarray%20Product%20Less%20Than%20K.swift) | 💛 Medium |
+| ✅ | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/716%20Max%20Stack.swift) | 💚 Easy |
 | ✅ | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/733%20Flood%20Fill.swift) | 💚 Easy |
 | ✅ | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/735%20Asteroid%20Collision.swift) | 💛 Medium |
 | ✅ | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/754%20Reach%20a%20Number.swift) | 💛 Medium |
