@@ -10,7 +10,7 @@
 
 </br>
 
-`293 Solved` - `💚 Easy 119` `💛 Medium 153` `❤️ Hard 21`
+`294 Solved` - `💚 Easy 120` `💛 Medium 153` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -253,6 +253,7 @@
 | ✅ | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/713%20Subarray%20Product%20Less%20Than%20K.swift) | 💛 Medium |
 | ✅ | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/716%20Max%20Stack.swift) | 💚 Easy |
 | ✅ | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/733%20Flood%20Fill.swift) | 💚 Easy |
+| ✅ | 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/734%20Sentence%20Similarity.swift) | 💚 Easy |
 | ✅ | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/735%20Asteroid%20Collision.swift) | 💛 Medium |
 | ✅ | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/754%20Reach%20a%20Number.swift) | 💛 Medium |
 | ✅ | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/763%20Partition%20Labels.swift) | 💛 Medium |
