@@ -10,7 +10,7 @@
 
 </br>
 
-`296 Solved` - `💚 Easy 120` `💛 Medium 155` `❤️ Hard 21`
+`297 Solved` - `💚 Easy 120` `💛 Medium 156` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -339,6 +339,7 @@
 | ✅ | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1640%20Check%20Array%20Formation%20Through%20Concatenation.swift) | 💚 Easy |
 | ✅ | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1641%20Count%20Sorted%20Vowel%20Strings.swift) | 💛 Medium |
 | ✅ | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1646%20Get%20Maximum%20in%20Generated%20Array.swift) | 💚 Easy |
+| ✅ | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1657%20Determine%20if%20Two%20Strings%20Are%20Close.swift) | 💛 Medium |
 | ✅ | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1658%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.swift) | 💛 Medium |
 | ✅ | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1662%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.swift) | 💚 Easy |
 | ✅ | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1673%20Find%20the%20Most%20Competitive%20Subsequence.swift) | 💛 Medium |
