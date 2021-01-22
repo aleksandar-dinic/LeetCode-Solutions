@@ -10,7 +10,7 @@
 
 </br>
 
-`295 Solved` - `💚 Easy 120` `💛 Medium 154` `❤️ Hard 21`
+`296 Solved` - `💚 Easy 120` `💛 Medium 155` `❤️ Hard 21`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -114,6 +114,7 @@
 | ✅ | 156 | [Binary Tree Upside Down](https://leetcode.com/problems/binary-tree-upside-down/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/156%20Binary%20Tree%20Upside%20Down.swift) | 💛 Medium |
 | ✅ | 157 | [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/157%20Read%20N%20Characters%20Given%20Read4.swift) | 💚 Easy |
 | ✅ | 159 | [Longest Substring with At Most Two Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/159%20Longest%20Substring%20with%20At%20Most%20Two%20Distinct%20Characters.swift) | 💛 Medium |
+| ✅ | 161 | [One Edit Distance](https://leetcode.com/problems/one-edit-distance/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/161%20One%20Edit%20Distance.swift) | 💛 Medium |
 | ✅ | 163 | [Missing Ranges](https://leetcode.com/problems/missing-ranges/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/163%20Missing%20Ranges.swift) | 💚 Easy |
 | ✅ | 165 | [Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/165%20Compare%20Version%20Numbers.swift) | 💛 Medium |
 | ✅ | 167 | [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/167%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.swift) | 💚 Easy |
