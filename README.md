@@ -10,7 +10,7 @@
 
 </br>
 
-`300 Solved` - `💚 Easy 120` `💛 Medium 158` `❤️ Hard 22`
+`301 Solved` - `💚 Easy 121` `💛 Medium 158` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -258,6 +258,7 @@
 | ✅ | 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/734%20Sentence%20Similarity.swift) | 💚 Easy |
 | ✅ | 735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/735%20Asteroid%20Collision.swift) | 💛 Medium |
 | ✅ | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/754%20Reach%20a%20Number.swift) | 💛 Medium |
+| ✅ | 758 | [Bold Words in String](https://leetcode.com/problems/bold-words-in-string/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/758%20Bold%20Words%20in%20String.swift) | 💚 Easy |
 | ✅ | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/763%20Partition%20Labels.swift) | 💛 Medium |
 | ✅ | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/771%20Jewels%20and%20Stones.swift) | 💚 Easy |
 | ✅ | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/797%20All%20Paths%20From%20Source%20to%20Target.swift) | 💛 Medium |
