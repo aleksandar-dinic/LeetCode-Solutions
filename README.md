@@ -10,7 +10,7 @@
 
 </br>
 
-`299 Solved` - `💚 Easy 120` `💛 Medium 157` `❤️ Hard 22`
+`300 Solved` - `💚 Easy 120` `💛 Medium 158` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -240,6 +240,7 @@
 ||
 | ✅ | 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/604%20Design%20Compressed%20String%20Iterator.swift) | 💚 Easy |
 | ✅ | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/605%20Can%20Place%20Flowers.swift) | 💚 Easy |
+| ✅ | 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/616%20Add%20Bold%20Tag%20in%20String.swift) | 💛 Medium |
 | ✅ | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/621%20Task%20Scheduler.swift) | 💛 Medium |
 | ✅ | 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/624%20Maximum%20Distance%20in%20Arrays.swift) | 💚 Easy |
 | ✅ | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/662%20Maximum%20Width%20of%20Binary%20Tree.swift) | 💛 Medium |
