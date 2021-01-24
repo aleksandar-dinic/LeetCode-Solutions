@@ -10,7 +10,7 @@
 
 </br>
 
-`298 Solved` - `💚 Easy 120` `💛 Medium 157` `❤️ Hard 21`
+`299 Solved` - `💚 Easy 120` `💛 Medium 157` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -36,7 +36,7 @@
 | ✅ | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/20%20Valid%20Parentheses.swift) | 💚 Easy |
 | ✅ | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/21%20Merge%20Two%20Sorted%20Lists.swift) | 💚 Easy |
 | ✅ | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/22%20Generate%20Parentheses.swift) | 💛 Medium |
-| | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | | ❤️ Hard |
+| ✅ | 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/23%20Merge%20k%20Sorted%20Lists.swift) | ❤️ Hard |
 | ✅ | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/24%20Swap%20Nodes%20in%20Pairs.swift) | 💛 Medium |
 | | 25 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | | ❤️ Hard |
 | ✅ | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/26%20Remove%20Duplicates%20from%20Sorted%20Array.swift) | 💚 Easy |
