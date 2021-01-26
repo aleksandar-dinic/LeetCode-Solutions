@@ -10,7 +10,7 @@
 
 </br>
 
-`302 Solved` - `💚 Easy 122` `💛 Medium 158` `❤️ Hard 22`
+`303 Solved` - `💚 Easy 122` `💛 Medium 159` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -340,6 +340,7 @@
 | ✅ | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1500-1599/1539%20Kth%20Missing%20Positive%20Number.swift) | 💚 Easy |
 ||
 | ✅ | 1602 | [Find Nearest Right Node in Binary Tree](https://leetcode.com/problems/find-nearest-right-node-in-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1602%20Find%20Nearest%20Right%20Node%20in%20Binary%20Tree.swift) | 💛 Medium |
+| ✅ | 1631 | [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1631%20Path%20With%20Minimum%20Effort.swift) | 💛 Medium |
 | ✅ | 1640 | [Check Array Formation Through Concatenation](https://leetcode.com/problems/check-array-formation-through-concatenation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1640%20Check%20Array%20Formation%20Through%20Concatenation.swift) | 💚 Easy |
 | ✅ | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1641%20Count%20Sorted%20Vowel%20Strings.swift) | 💛 Medium |
 | ✅ | 1646 | [Get Maximum in Generated Array](https://leetcode.com/problems/get-maximum-in-generated-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1646%20Get%20Maximum%20in%20Generated%20Array.swift) | 💚 Easy |
