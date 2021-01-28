@@ -10,7 +10,7 @@
 
 </br>
 
-`304 Solved` - `💚 Easy 122` `💛 Medium 160` `❤️ Hard 22`
+`305 Solved` - `💚 Easy 122` `💛 Medium 161` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -347,6 +347,7 @@
 | ✅ | 1657 | [Determine if Two Strings Are Close](https://leetcode.com/problems/determine-if-two-strings-are-close/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1657%20Determine%20if%20Two%20Strings%20Are%20Close.swift) | 💛 Medium |
 | ✅ | 1658 | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1658%20Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.swift) | 💛 Medium |
 | ✅ | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1662%20Check%20If%20Two%20String%20Arrays%20are%20Equivalent.swift) | 💚 Easy |
+| ✅ | 1663 | [Smallest String With A Given Numeric Value](https://leetcode.com/problems/smallest-string-with-a-given-numeric-value/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1663%20Smallest%20String%20With%20A%20Given%20Numeric%20Value.swift) | 💛 Medium |
 | ✅ | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1673%20Find%20the%20Most%20Competitive%20Subsequence.swift) | 💛 Medium |
 | ✅ | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1679%20Max%20Number%20of%20K-Sum%20Pairs.swift) | 💛 Medium |
 | ✅ | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1680%20Concatenation%20of%20Consecutive%20Binary%20Numbers.swift) | 💛 Medium |
