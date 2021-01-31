@@ -10,7 +10,7 @@
 
 </br>
 
-`307 Solved` - `💚 Easy 123` `💛 Medium 162` `❤️ Hard 22`
+`308 Solved` - `💚 Easy 123` `💛 Medium 163` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -44,7 +44,7 @@
 |  | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | | 💚 Easy |
 |  | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | | 💛 Medium |
 |  | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | | ❤️ Hard |
-|  | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | | 💛 Medium |
+| ✅ | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/31%20Next%20Permutation.swift) | 💛 Medium |
 |  | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | | ❤️ Hard |
 |  | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | 💛 Medium |
 |  | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | 💛 Medium |
