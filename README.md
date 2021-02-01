@@ -10,7 +10,7 @@
 
 </br>
 
-`308 Solved` - `💚 Easy 123` `💛 Medium 163` `❤️ Hard 22`
+`309 Solved` - `💚 Easy 124` `💛 Medium 163` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -128,6 +128,7 @@
 | ✅ | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/187%20Repeated%20DNA%20Sequences.swift) | 💛 Medium |
 | ✅ | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/188%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV.swift) | ❤️ Hard |
 | ✅ | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/189%20Rotate%20Array.swift) | 💛 Medium |
+| ✅ | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/191%20Number%20of%201%20Bits.swift) | 💚 Easy |
 | ✅ | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/198%20House%20Robber.swift) | 💚 Easy |
 ||
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/203%20Remove%20Linked%20List%20Elements.swift) | 💚 Easy |
