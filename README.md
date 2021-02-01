@@ -10,7 +10,7 @@
 
 </br>
 
-`309 Solved` - `💚 Easy 124` `💛 Medium 163` `❤️ Hard 22`
+`310 Solved` - `💚 Easy 124` `💛 Medium 164` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -238,6 +238,7 @@
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
 | ✅ | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/556%20Next%20Greater%20Element%20III.swift) | 💛 Medium |
 | ✅ | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/563%20Binary%20Tree%20Tilt.swift) | 💚 Easy |
+| ✅ | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/573%20Squirrel%20Simulation.swift) | 💛 Medium |
 | ✅ | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/593%20Valid%20Square.swift) | 💛 Medium |
 ||
 | ✅ | 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/604%20Design%20Compressed%20String%20Iterator.swift) | 💚 Easy |
