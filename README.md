@@ -10,7 +10,7 @@
 
 </br>
 
-`311 Solved` - `💚 Easy 124` `💛 Medium 165` `❤️ Hard 22`
+`312 Solved` - `💚 Easy 125` `💛 Medium 165` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -264,6 +264,7 @@
 | ✅ | 750 | [Number Of Corner Rectangles](https://leetcode.com/problems/number-of-corner-rectangles/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/750%20Number%20Of%20Corner%20Rectangles.swift) | 💛 Medium |
 | ✅ | 754 | [Reach a Number](https://leetcode.com/problems/reach-a-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/754%20Reach%20a%20Number.swift) | 💛 Medium |
 | ✅ | 758 | [Bold Words in String](https://leetcode.com/problems/bold-words-in-string/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/758%20Bold%20Words%20in%20String.swift) | 💚 Easy |
+| ✅ | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/760%20Find%20Anagram%20Mappings.swift) | 💚 Easy |
 | ✅ | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/763%20Partition%20Labels.swift) | 💛 Medium |
 | ✅ | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/771%20Jewels%20and%20Stones.swift) | 💚 Easy |
 | ✅ | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/797%20All%20Paths%20From%20Source%20to%20Target.swift) | 💛 Medium |
