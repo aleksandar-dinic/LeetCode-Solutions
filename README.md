@@ -10,7 +10,7 @@
 
 </br>
 
-`312 Solved` - `💚 Easy 125` `💛 Medium 165` `❤️ Hard 22`
+`313 Solved` - `💚 Easy 126` `💛 Medium 165` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -240,6 +240,7 @@
 | ✅ | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/563%20Binary%20Tree%20Tilt.swift) | 💚 Easy |
 | ✅ | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/573%20Squirrel%20Simulation.swift) | 💛 Medium |
 | ✅ | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/593%20Valid%20Square.swift) | 💛 Medium |
+| ✅ | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/594%20Longest%20Harmonious%20Subsequence.swift) | 💚 Easy |
 ||
 | ✅ | 604 | [Design Compressed String Iterator](https://leetcode.com/problems/design-compressed-string-iterator/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/604%20Design%20Compressed%20String%20Iterator.swift) | 💚 Easy |
 | ✅ | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/605%20Can%20Place%20Flowers.swift) | 💚 Easy |
