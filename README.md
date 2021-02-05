@@ -10,7 +10,7 @@
 
 </br>
 
-`313 Solved` - `💚 Easy 126` `💛 Medium 165` `❤️ Hard 22`
+`314 Solved` - `💚 Easy 126` `💛 Medium 166` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -64,6 +64,7 @@
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
 | ✅ | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/67%20Add%20Binary.swift) | 💚 Easy |
 | ✅ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/70%20Climbing%20Stairs.swift) | 💚 Easy |
+| ✅ | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/71%20Simplify%20Path.swift) | 💛 Medium |
 | ✅ | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/74%20Search%20a%202D%20Matrix.swift) | 💛 Medium |
 | ✅ | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/75%20Sort%20Colors.swift) | 💛 Medium |
 | ✅ | 79 | [Word Search](https://leetcode.com/problems/word-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/79%20Word%20Search.swift) | 💛 Medium |
