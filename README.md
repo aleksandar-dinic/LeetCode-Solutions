@@ -10,7 +10,7 @@
 
 </br>
 
-`314 Solved` - `💚 Easy 126` `💛 Medium 166` `❤️ Hard 22`
+`315 Solved` - `💚 Easy 126` `💛 Medium 167` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -131,6 +131,7 @@
 | ✅ | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/189%20Rotate%20Array.swift) | 💛 Medium |
 | ✅ | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/191%20Number%20of%201%20Bits.swift) | 💚 Easy |
 | ✅ | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/198%20House%20Robber.swift) | 💚 Easy |
+| ✅ | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/199%20Binary%20Tree%20Right%20Side%20View.swift) | 💛 Medium |
 ||
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/203%20Remove%20Linked%20List%20Elements.swift) | 💚 Easy |
 | ✅ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/208%20Implement%20Trie%20(Prefix%20Tree).swift) | 💛 Medium |
