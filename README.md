@@ -10,7 +10,7 @@
 
 </br>
 
-`315 Solved` - `💚 Easy 126` `💛 Medium 167` `❤️ Hard 22`
+`316 Solved` - `💚 Easy 127` `💛 Medium 167` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -274,6 +274,7 @@
 | ✅ | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/799%20Champagne%20Tower.swift) | 💛 Medium |
 ||
 | ✅ | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/804%20Unique%20Morse%20Code%20Words.swift) | 💚 Easy |
+| ✅ | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/821%20Shortest%20Distance%20to%20a%20Character.swift) | 💚 Easy |
 | ✅ | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/824%20Goat%20Latin.swift) | 💚 Easy |
 | ✅ | 832 | [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/832%20Flipping%20an%20Image.swift) | 💚 Easy |
 | ✅ | 845 | [Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/845%20Longest%20Mountain%20in%20Array.swift) | 💛 Medium |
