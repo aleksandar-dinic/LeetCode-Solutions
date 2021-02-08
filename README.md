@@ -10,7 +10,7 @@
 
 </br>
 
-`317 Solved` - `💚 Easy 127` `💛 Medium 168` `❤️ Hard 22`
+`318 Solved` - `💚 Easy 127` `💛 Medium 169` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -254,6 +254,7 @@
 | ✅ | 669 | [Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/669%20Trim%20a%20Binary%20Search%20Tree.swift) | 💛 Medium |
 | ✅ | 673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/673%20Number%20of%20Longest%20Increasing%20Subsequence.swift) | 💛 Medium |
 | ✅ | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/678%20Valid%20Parenthesis%20String.swift) | 💛 Medium |
+| ✅ | 694 | [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/694%20Number%20of%20Distinct%20Islands.swift) | 💛 Medium |
 ||
 | ✅ | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/700%20Search%20in%20a%20Binary%20Search%20Tree.swift) | 💚 Easy |
 | ✅ | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/701%20Insert%20into%20a%20Binary%20Search%20Tree.swift) | 💛 Medium |
