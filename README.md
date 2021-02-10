@@ -10,7 +10,7 @@
 
 </br>
 
-`320 Solved` - `💚 Easy 127` `💛 Medium 171` `❤️ Hard 22`
+`321 Solved` - `💚 Easy 127` `💛 Medium 172` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -100,6 +100,7 @@
 | ✅ | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/133%20Clone%20Graph.swift) | 💛 Medium |
 | ✅ | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/134%20Gas%20Station.swift) | 💛 Medium |
 | ✅ | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/136%20Single%20Number.swift) | 💚 Easy |
+| ✅ | 138 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/138%20Copy%20List%20with%20Random%20Pointer.swift) | 💛 Medium |
 | ✅ | 139 | [Word Break](https://leetcode.com/problems/word-break/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/139%20Word%20Break.swift) | 💛 Medium |
 | ✅ | 140 | [Word Break II](https://leetcode.com/problems/word-break-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/140%20Word%20Break%20II.swift) | ❤️ Hard |
 | ✅ | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/141%20Linked%20List%20Cycle.swift) | 💚 Easy |
