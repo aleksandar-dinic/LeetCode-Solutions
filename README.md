@@ -10,7 +10,7 @@
 
 </br>
 
-`322 Solved` - `💚 Easy 128` `💛 Medium 172` `❤️ Hard 22`
+`323 Solved` - `💚 Easy 129` `💛 Medium 172` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -341,6 +341,7 @@
 ||
 | ✅ | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1306%20Jump%20Game%20III.swift) | 💛 Medium |
 | ✅ | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1329%20Sort%20the%20Matrix%20Diagonally.swift) | 💛 Medium |
+| ✅ | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.swift) | 💚 Easy |
 | ✅ | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1344%20Angle%20Between%20Hands%20of%20a%20Clock.swift) | 💛 Medium |
 | ✅ | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1345%20Jump%20Game%20IV.swift) | ❤️ Hard |
 | ✅ | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.swift) | 💚 Easy |
