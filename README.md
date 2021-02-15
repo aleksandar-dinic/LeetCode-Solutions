@@ -10,7 +10,7 @@
 
 </br>
 
-`325 Solved` - `💚 Easy 129` `💛 Medium 174` `❤️ Hard 22`
+`326 Solved` - `💚 Easy 129` `💛 Medium 175` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -245,6 +245,7 @@
 | ✅ | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/556%20Next%20Greater%20Element%20III.swift) | 💛 Medium |
 | ✅ | 563 | [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/563%20Binary%20Tree%20Tilt.swift) | 💚 Easy |
 | ✅ | 573 | [Squirrel Simulation](https://leetcode.com/problems/squirrel-simulation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/573%20Squirrel%20Simulation.swift) | 💛 Medium |
+| ✅ | 582 | [Kill Process](https://leetcode.com/problems/kill-process/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/582%20Kill%20Process.swift) | 💛 Medium |
 | ✅ | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/593%20Valid%20Square.swift) | 💛 Medium |
 | ✅ | 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/594%20Longest%20Harmonious%20Subsequence.swift) | 💚 Easy |
 ||
