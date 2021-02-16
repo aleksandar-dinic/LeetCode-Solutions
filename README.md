@@ -10,7 +10,7 @@
 
 </br>
 
-`327 Solved` - `💚 Easy 130` `💛 Medium 175` `❤️ Hard 22`
+`328 Solved` - `💚 Easy 130` `💛 Medium 176` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -276,6 +276,7 @@
 | ✅ | 760 | [Find Anagram Mappings](https://leetcode.com/problems/find-anagram-mappings/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/760%20Find%20Anagram%20Mappings.swift) | 💚 Easy |
 | ✅ | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/763%20Partition%20Labels.swift) | 💛 Medium |
 | ✅ | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/771%20Jewels%20and%20Stones.swift) | 💚 Easy |
+| ✅ | 784 | [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/784%20Letter%20Case%20Permutation.swift) | 💛 Medium |
 | ✅ | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/785%20Is%20Graph%20Bipartite%3F.swift) | 💛 Medium |
 | ✅ | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/797%20All%20Paths%20From%20Source%20to%20Target.swift) | 💛 Medium |
 | ✅ | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/799%20Champagne%20Tower.swift) | 💛 Medium |
