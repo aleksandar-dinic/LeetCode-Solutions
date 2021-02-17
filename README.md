@@ -10,7 +10,7 @@
 
 </br>
 
-`328 Solved` - `💚 Easy 130` `💛 Medium 176` `❤️ Hard 22`
+`329 Solved` - `💚 Easy 131` `💛 Medium 176` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -281,6 +281,7 @@
 | ✅ | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/797%20All%20Paths%20From%20Source%20to%20Target.swift) | 💛 Medium |
 | ✅ | 799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/799%20Champagne%20Tower.swift) | 💛 Medium |
 ||
+| ✅ | 800 | [Similar RGB Color](https://leetcode.com/problems/similar-rgb-color/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/800%20Similar%20RGB%20Color.swift) | 💚 Easy |
 | ✅ | 804 | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/804%20Unique%20Morse%20Code%20Words.swift) | 💚 Easy |
 | ✅ | 821 | [Shortest Distance to a Character](https://leetcode.com/problems/shortest-distance-to-a-character/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/821%20Shortest%20Distance%20to%20a%20Character.swift) | 💚 Easy |
 | ✅ | 824 | [Goat Latin](https://leetcode.com/problems/goat-latin/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/824%20Goat%20Latin.swift) | 💚 Easy |
