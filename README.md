@@ -10,7 +10,7 @@
 
 </br>
 
-`329 Solved` - `💚 Easy 131` `💛 Medium 176` `❤️ Hard 22`
+`330 Solved` - `💚 Easy 131` `💛 Medium 177` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -205,6 +205,7 @@
 | ✅ | 408 | [Valid Word Abbreviation](https://leetcode.com/problems/valid-word-abbreviation/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/408%20Valid%20Word%20Abbreviation.swift) | 💚 Easy |
 | ✅ | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/409%20Longest%20Palindrome.swift) | 💚 Easy |
 | ✅ | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/412%20Fizz%20Buzz.swift) | 💚 Easy |
+| ✅ | 413 | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/413%20Arithmetic%20Slices.swift) | 💛 Medium |
 | ✅ | 414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/414%20Third%20Maximum%20Number.swift) | 💚 Easy |
 | ✅ | 416 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/416%20Partition%20Equal%20Subset%20Sum.swift) | 💛 Medium |
 | ✅ | 421 | [Maximum XOR of Two Numbers in an Array](https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/421%20Maximum%20XOR%20of%20Two%20Numbers%20in%20an%20Array.swift) | 💛 Medium |
