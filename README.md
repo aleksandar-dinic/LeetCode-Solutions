@@ -10,7 +10,7 @@
 
 </br>
 
-`330 Solved` - `💚 Easy 131` `💛 Medium 177` `❤️ Hard 22`
+`331 Solved` - `💚 Easy 131` `💛 Medium 178` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -337,6 +337,7 @@
 ||
 | ✅ | 1213 | [Intersection of Three Sorted Arrays](https://leetcode.com/problems/intersection-of-three-sorted-arrays/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1213%20Intersection%20of%20Three%20Sorted%20Arrays.swift) | 💚 Easy |
 | ✅ | 1217 | [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1217%20Minimum%20Cost%20to%20Move%20Chips%20to%20The%20Same%20Position.swift) | 💚 Easy |
+| ✅ | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1249%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.swift) | 💛 Medium |
 | ✅ | 1272 | [Remove Interval](https://leetcode.com/problems/remove-interval/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1272%20Remove%20Interval.swift) | 💛 Medium |
 | ✅ | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1283%20Find%20the%20Smallest%20Divisor%20Given%20a%20Threshold.swift) | 💛 Medium |
 | ✅ | 1286 | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1200-1299/1286%20Iterator%20for%20Combination.swift) | 💛 Medium |
