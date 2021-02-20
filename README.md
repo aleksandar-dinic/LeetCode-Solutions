@@ -10,7 +10,7 @@
 
 </br>
 
-`331 Solved` - `💚 Easy 131` `💛 Medium 178` `❤️ Hard 22`
+`332 Solved` - `💚 Easy 131` `💛 Medium 179` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -19,7 +19,7 @@
 | ✅ | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/03%20Longest%20Substring%20Without%20Repeating%20Characters.swift) | 💛 Medium |
 | | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | | ❤️ Hard |
 | ✅ | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/05%20Longest%20Palindromic%20Substring.swift) | 💛 Medium |
-| | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | | 💛 Medium |
+| ✅ | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/06%20ZigZag%20Conversion.swift) | 💛 Medium |
 | | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | 💚 Easy |
 | | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | 💛 Medium |
 | ✅ | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/09%20Palindrome%20Number.swift) | 💚 Easy |
