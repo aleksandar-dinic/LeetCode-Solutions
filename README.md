@@ -10,7 +10,7 @@
 
 </br>
 
-`332 Solved` - `💚 Easy 131` `💛 Medium 179` `❤️ Hard 22`
+`333 Solved` - `💚 Easy 132` `💛 Medium 179` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -20,7 +20,7 @@
 | | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | | ❤️ Hard |
 | ✅ | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/05%20Longest%20Palindromic%20Substring.swift) | 💛 Medium |
 | ✅ | 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/06%20ZigZag%20Conversion.swift) | 💛 Medium |
-| | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | | 💚 Easy |
+| ✅ | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/07%20Reverse%20Integer.swift) | 💚 Easy |
 | | 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | | 💛 Medium |
 | ✅ | 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/09%20Palindrome%20Number.swift) | 💚 Easy |
 | | 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) | | ❤️ Hard |
