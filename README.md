@@ -10,7 +10,7 @@
 
 </br>
 
-`333 Solved` - `💚 Easy 132` `💛 Medium 179` `❤️ Hard 22`
+`334 Solved` - `💚 Easy 133` `💛 Medium 179` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -27,7 +27,7 @@
 | ✅ | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/11%20Container%20With%20Most%20Water.swift) | 💛 Medium |
 | ✅ | 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/12%20Integer%20to%20Roman.swift) | 💛 Medium |
 | ✅ | 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/13%20Roman%20to%20Integer.swift) | 💚 Easy |
-| | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | | 💚 Easy |
+| ✅ | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/14%20Longest%20Common%20Prefix.swift) | 💚 Easy |
 | ✅ | 15 | [3Sum](https://leetcode.com/problems/3sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/15%203Sum.swift) | 💛 Medium |
 | ✅ | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/16%203Sum%20Closest.swift) | 💛 Medium |
 | ✅ | 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/17%20Letter%20Combinations%20of%20a%20Phone%20Number.swift) | 💛 Medium |
