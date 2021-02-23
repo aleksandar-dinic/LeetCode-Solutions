@@ -10,7 +10,7 @@
 
 </br>
 
-`334 Solved` - `💚 Easy 133` `💛 Medium 179` `❤️ Hard 22`
+`335 Solved` - `💚 Easy 133` `💛 Medium 180` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -46,7 +46,7 @@
 |  | 30 | [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) | | ❤️ Hard |
 | ✅ | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/31%20Next%20Permutation.swift) | 💛 Medium |
 |  | 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | | ❤️ Hard |
-|  | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | | 💛 Medium |
+|  ✅ | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/33%20Search%20in%20Rotated%20Sorted%20Array.swift) | 💛 Medium |
 |  | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | | 💛 Medium |
 | ✅ | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/35%20Search%20Insert%20Position.swift) | 💚 Easy |
 |  | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | | 💛 Medium |
