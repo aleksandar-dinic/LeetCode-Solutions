@@ -10,7 +10,7 @@
 
 </br>
 
-`335 Solved` - `💚 Easy 133` `💛 Medium 180` `❤️ Hard 22`
+`336 Solved` - `💚 Easy 133` `💛 Medium 181` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -61,6 +61,7 @@
 | ✅ | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/59%20Spiral%20Matrix%20II.swift) | 💛 Medium |
 | ✅ | 61 | [Rotate List](https://leetcode.com/problems/rotate-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/61%20Rotate%20List.swift) | 💛 Medium |
 | ✅ | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/62%20Unique%20Paths.swift) | 💛 Medium |
+| ✅ | 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/64%20Minimum%20Path%20Sum.swift) | 💛 Medium |
 | ✅ | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/66%20Plus%20One.swift) | 💚 Easy |
 | ✅ | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/67%20Add%20Binary.swift) | 💚 Easy |
 | ✅ | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/70%20Climbing%20Stairs.swift) | 💚 Easy |
