@@ -10,7 +10,7 @@
 
 </br>
 
-`336 Solved` - `💚 Easy 133` `💛 Medium 181` `❤️ Hard 22`
+`337 Solved` - `💚 Easy 133` `💛 Medium 182` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -76,6 +76,7 @@
 | ✅ | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/84%20Largest%20Rectangle%20in%20Histogram.swift) | ❤️ Hard |
 | ✅ | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/88%20Merge%20Sorted%20Array.swift) | 💚 Easy |
 | ✅ | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/91%20Decode%20Ways.swift) | 💛 Medium |
+| ✅ | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/94%20Binary%20Tree%20Inorder%20Traversal.swift) | 💛 Medium |
 | ✅ | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/98%20Validate%20Binary%20Search%20Tree.swift) | 💛 Medium |
 | ✅ | 99 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/000-099/99%20Recover%20Binary%20Search%20Tree.swift) | ❤️ Hard |
 ||
