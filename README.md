@@ -10,7 +10,7 @@
 
 </br>
 
-`337 Solved` - `💚 Easy 133` `💛 Medium 182` `❤️ Hard 22`
+`338 Solved` - `💚 Easy 134` `💛 Medium 182` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -136,6 +136,7 @@
 | ✅ | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/198%20House%20Robber.swift) | 💚 Easy |
 | ✅ | 199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/100-199/199%20Binary%20Tree%20Right%20Side%20View.swift) | 💛 Medium |
 ||
+| ✅ | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/202%20Happy%20Number.swift) | 💚 Easy |
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/203%20Remove%20Linked%20List%20Elements.swift) | 💚 Easy |
 | ✅ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/208%20Implement%20Trie%20(Prefix%20Tree).swift) | 💛 Medium |
 | ✅ | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/210%20Course%20Schedule%20II.swift) | 💛 Medium |
