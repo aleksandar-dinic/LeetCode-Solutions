@@ -10,7 +10,7 @@
 
 </br>
 
-`338 Solved` - `💚 Easy 134` `💛 Medium 182` `❤️ Hard 22`
+`339 Solved` - `💚 Easy 134` `💛 Medium 183` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -139,6 +139,7 @@
 | ✅ | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/202%20Happy%20Number.swift) | 💚 Easy |
 | ✅ | 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/203%20Remove%20Linked%20List%20Elements.swift) | 💚 Easy |
 | ✅ | 208 | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/208%20Implement%20Trie%20(Prefix%20Tree).swift) | 💛 Medium |
+| ✅ | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/209%20Minimum%20Size%20Subarray%20Sum.swift) | 💛 Medium |
 | ✅ | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/210%20Course%20Schedule%20II.swift) | 💛 Medium |
 | ✅ | 211 | [Add and Search Word - Data structure design](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/211%20Add%20and%20Search%20Word%20-%20Data%20structure%20design.swift) | 💛 Medium |
 | ✅ | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/213%20House%20Robber%20II.swift) | 💛 Medium |
