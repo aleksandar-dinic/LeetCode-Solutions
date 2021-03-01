@@ -10,7 +10,7 @@
 
 </br>
 
-`340 Solved` - `💚 Easy 135` `💛 Medium 183` `❤️ Hard 22`
+`341 Solved` - `💚 Easy 136` `💛 Medium 183` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -150,6 +150,7 @@
 | ✅ | 220 | [Contains Duplicate III](https://leetcode.com/problems/contains-duplicate-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/220%20Contains%20Duplicate%20III.swift) | 💛 Medium |
 | ✅ | 222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/222%20Count%20Complete%20Tree%20Nodes.swift) | 💛 Medium |
 | ✅ | 225 | [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/225%20Implement%20Stack%20using%20Queues.swift) | 💚 Easy |
+| ✅ | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/226%20Invert%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 227 | [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/227%20Basic%20Calculator%20II.swift) | 💛 Medium |
 | ✅ | 228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/228%20Summary%20Ranges.swift) | 💚 Easy |
 | ✅ | 229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/200-299/229%20Majority%20Element%20II.swift) | 💛 Medium |
