@@ -10,7 +10,7 @@
 
 </br>
 
-`343 Solved` - `💚 Easy 138` `💛 Medium 183` `❤️ Hard 22`
+`344 Solved` - `💚 Easy 138` `💛 Medium 184` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -246,6 +246,7 @@
 | ✅ | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/498%20Diagonal%20Traverse.swift) | 💛 Medium |
 ||
 | ✅ | 510 | [Inorder Successor in BST II](https://leetcode.com/problems/inorder-successor-in-bst-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/510%20Inorder%20Successor%20in%20BST%20II.swift) | 💛 Medium |
+| ✅ | 518 | [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/518%20Coin%20Change%202.swift) | 💛 Medium |
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
 | ✅ | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/526%20Beautiful%20Arrangement.swift) | 💛 Medium |
 | ✅ | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/532%20K-diff%20Pairs%20in%20an%20Array.swift) | 💛 Medium |
