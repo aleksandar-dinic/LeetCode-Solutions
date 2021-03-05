@@ -10,7 +10,7 @@
 
 </br>
 
-`344 Solved` - `💚 Easy 138` `💛 Medium 184` `❤️ Hard 22`
+`345 Solved` - `💚 Easy 139` `💛 Medium 184` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -363,6 +363,7 @@
 | ✅ | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1345%20Jump%20Game%20IV.swift) | ❤️ Hard |
 | ✅ | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.swift) | 💚 Easy |
 ||
+| ✅ | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1426%20Counting%20Elements.swift) | 💚 Easy |
 | ✅ | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1437%20Check%20If%20All%201%27s%20Are%20at%20Least%20Length%20K%20Places%20Away.swift) | 💚 Easy |
 | ✅ | 1446 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1446%20Consecutive%20Characters.swift) | 💚 Easy |
 | ✅ | 1457 | [Pseudo-Palindromic Paths in a Binary Tree](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1457%20Pseudo-Palindromic%20Paths%20in%20a%20Binary%20Tree.swift) | 💛 Medium |
