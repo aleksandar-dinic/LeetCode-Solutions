@@ -10,7 +10,7 @@
 
 </br>
 
-`347 Solved` - `💚 Easy 141` `💛 Medium 184` `❤️ Hard 22`
+`348 Solved` - `💚 Easy 142` `💛 Medium 184` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -359,6 +359,7 @@
 ||
 | ✅ | 1306 | [Jump Game III](https://leetcode.com/problems/jump-game-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1306%20Jump%20Game%20III.swift) | 💛 Medium |
 | ✅ | 1329 | [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1329%20Sort%20the%20Matrix%20Diagonally.swift) | 💛 Medium |
+| ✅ | 1332 | [Remove Palindromic Subsequences](https://leetcode.com/problems/remove-palindromic-subsequences/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1332%20Remove%20Palindromic%20Subsequences.swift) | 💚 Easy |
 | ✅ | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1337%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.swift) | 💚 Easy |
 | ✅ | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1342%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.swift) | 💚 Easy |
 | ✅ | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1344%20Angle%20Between%20Hands%20of%20a%20Clock.swift) | 💛 Medium |
