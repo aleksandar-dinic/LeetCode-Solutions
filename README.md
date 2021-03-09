@@ -10,7 +10,7 @@
 
 </br>
 
-`348 Solved` - `💚 Easy 142` `💛 Medium 184` `❤️ Hard 22`
+`349 Solved` - `💚 Easy 142` `💛 Medium 185` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -263,6 +263,7 @@
 | ✅ | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/605%20Can%20Place%20Flowers.swift) | 💚 Easy |
 | ✅ | 616 | [Add Bold Tag in String](https://leetcode.com/problems/add-bold-tag-in-string/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/616%20Add%20Bold%20Tag%20in%20String.swift) | 💛 Medium |
 | ✅ | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/621%20Task%20Scheduler.swift) | 💛 Medium |
+| ✅ | 623 | [Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/623%20Add%20One%20Row%20to%20Tree.swift) | 💛 Medium |
 | ✅ | 624 | [Maximum Distance in Arrays](https://leetcode.com/problems/maximum-distance-in-arrays/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/624%20Maximum%20Distance%20in%20Arrays.swift) | 💚 Easy |
 | ✅ | 637 | [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/637%20Average%20of%20Levels%20in%20Binary%20Tree.swift) | 💚 Easy |
 | ✅ | 662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/600-699/662%20Maximum%20Width%20of%20Binary%20Tree.swift) | 💛 Medium |
