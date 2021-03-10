@@ -10,7 +10,7 @@
 
 </br>
 
-`349 Solved` - `💚 Easy 142` `💛 Medium 185` `❤️ Hard 22`
+`350 Solved` - `💚 Easy 143` `💛 Medium 185` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -339,6 +339,7 @@
 | ✅ | 1038 | [Binary Search Tree to Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1038%20Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.swift) | 💛 Medium |
 | ✅ | 1041 | [Robot Bounded In Circle](https://leetcode.com/problems/robot-bounded-in-circle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1041%20Robot%20Bounded%20In%20Circle.swift) | 💛 Medium |
 | ✅ | 1056 | [Confusing Number](https://leetcode.com/problems/confusing-number/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1056%20Confusing%20Number.swift) | 💚 Easy |
+| ✅ | 1064 | [Fixed Point](https://leetcode.com/problems/fixed-point/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1064%20Fixed%20Point.swift) | 💚 Easy |
 | ✅ | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1081%20Smallest%20Subsequence%20of%20Distinct%20Characters.swift) | 💛 Medium |
 | ✅ | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1091%20Shortest%20Path%20in%20Binary%20Matrix.swift) | 💛 Medium |
 | ✅ | 1094 | [Car Pooling](https://leetcode.com/problems/car-pooling/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1000-1099/1094%20Car%20Pooling.swift) | 💛 Medium |
