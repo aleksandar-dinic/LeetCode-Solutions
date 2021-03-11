@@ -10,7 +10,7 @@
 
 </br>
 
-`350 Solved` - `💚 Easy 143` `💛 Medium 185` `❤️ Hard 22`
+`351 Solved` - `💚 Easy 143` `💛 Medium 186` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -186,6 +186,7 @@
 | ✅ | 310 | [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/310%20Minimum%20Height%20Trees.swift) | 💛 Medium |
 | ✅ | 312 | [Burst Balloons](https://leetcode.com/problems/burst-balloons/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/312%20Burst%20Balloons.swift) | ❤️ Hard |
 | ✅ | 316 | [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/316%20Remove%20Duplicate%20Letters.swift) | 💛 Medium |
+| ✅ | 322 | [Coin Change](https://leetcode.com/problems/coin-change/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/322%20Coin%20Change.swift) | 💛 Medium |
 | ✅ | 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/334%20Increasing%20Triplet%20Subsequence.swift) | 💛 Medium |
 | ✅ | 337 | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/337%20House%20Robber%20III.swift) | 💛 Medium |
 | ✅ | 339 | [Nested List Weight Sum](https://leetcode.com/problems/nested-list-weight-sum/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/300-399/339%20Nested%20List%20Weight%20Sum.swift) | 💚 Easy |
