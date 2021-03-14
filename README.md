@@ -10,7 +10,7 @@
 
 </br>
 
-`353 Solved` - `💚 Easy 145` `💛 Medium 186` `❤️ Hard 22`
+`354 Solved` - `💚 Easy 145` `💛 Medium 187` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -394,3 +394,5 @@
 | ✅ | 1673 | [Find the Most Competitive Subsequence](https://leetcode.com/problems/find-the-most-competitive-subsequence/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1673%20Find%20the%20Most%20Competitive%20Subsequence.swift) | 💛 Medium |
 | ✅ | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1679%20Max%20Number%20of%20K-Sum%20Pairs.swift) | 💛 Medium |
 | ✅ | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1600-1699/1680%20Concatenation%20of%20Consecutive%20Binary%20Numbers.swift) | 💛 Medium |
+||
+| ✅ | 1721 | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1700-1799/1721%20Swapping%20Nodes%20in%20a%20Linked%20List.swift) | 💛 Medium |
