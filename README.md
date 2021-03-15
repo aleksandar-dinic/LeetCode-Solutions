@@ -10,7 +10,7 @@
 
 </br>
 
-`354 Solved` - `💚 Easy 145` `💛 Medium 187` `❤️ Hard 22`
+`355 Solved` - `💚 Easy 145` `💛 Medium 188` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -251,6 +251,7 @@
 | ✅ | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/520%20Detect%20Capital.swift) | 💚 Easy |
 | ✅ | 526 | [Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/526%20Beautiful%20Arrangement.swift) | 💛 Medium |
 | ✅ | 532 | [K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/532%20K-diff%20Pairs%20in%20an%20Array.swift) | 💛 Medium |
+| ✅ | 535 | [Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/535%20Encode%20and%20Decode%20TinyURL.swift) | 💛 Medium |
 | ✅ | 538 | [Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/538%20Convert%20BST%20to%20Greater%20Tree.swift) | 💛 Medium |
 | ✅ | 551 | [Student Attendance Record I](https://leetcode.com/problems/student-attendance-record-i/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/551%20Student%20Attendance%20Record%20I.swift) | 💚 Easy |
 | ✅ | 556 | [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/500-599/556%20Next%20Greater%20Element%20III.swift) | 💛 Medium |
