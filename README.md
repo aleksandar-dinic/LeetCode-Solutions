@@ -10,7 +10,7 @@
 
 </br>
 
-`355 Solved` - `💚 Easy 145` `💛 Medium 188` `❤️ Hard 22`
+`356 Solved` - `💚 Easy 145` `💛 Medium 189` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -280,6 +280,7 @@
 | ✅ | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/704%20Binary%20Search.swift) | 💚 Easy |
 | ✅ | 708 | [Insert into a Sorted Circular Linked List](https://leetcode.com/problems/insert-into-a-sorted-circular-linked-list/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/708%20Insert%20into%20a%20Sorted%20Circular%20Linked%20List.swift) | 💛 Medium |
 | ✅ | 713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/713%20Subarray%20Product%20Less%20Than%20K.swift) | 💛 Medium |
+| ✅ | 714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/714%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Transaction%20Fee.swift) | 💛 Medium |
 | ✅ | 716 | [Max Stack](https://leetcode.com/problems/max-stack/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/716%20Max%20Stack.swift) | 💚 Easy |
 | ✅ | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/733%20Flood%20Fill.swift) | 💚 Easy |
 | ✅ | 734 | [Sentence Similarity](https://leetcode.com/problems/sentence-similarity/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/700-799/734%20Sentence%20Similarity.swift) | 💚 Easy |
