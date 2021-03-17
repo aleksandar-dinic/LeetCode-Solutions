@@ -10,7 +10,7 @@
 
 </br>
 
-`356 Solved` - `💚 Easy 145` `💛 Medium 189` `❤️ Hard 22`
+`357 Solved` - `💚 Easy 145` `💛 Medium 190` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -237,6 +237,7 @@
 | ✅ | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/463%20Island%20Perimeter.swift) | 💚 Easy |
 | ✅ | 470 | [Implement Rand10() Using Rand7()](https://leetcode.com/problems/implement-rand10-using-rand7/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/470%20Implement%20Rand10()%20Using%20Rand7().swift) | 💛 Medium |
 | ✅ | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/476%20Number%20Complement.swift) | 💚 Easy |
+| ✅ | 478 | [Generate Random Point in a Circle](https://leetcode.com/problems/generate-random-point-in-a-circle/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/478%20Generate%20Random%20Point%20in%20a%20Circle.swift) | 💛 Medium |
 | ✅ | 484 | [Find Permutation](https://leetcode.com/problems/find-permutation/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/484%20Find%20Permutation.swift) | 💛 Medium |
 | ✅ | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/485%20Max%20Consecutive%20Ones.swift) | 💚 Easy |
 | ✅ | 487 | [Max Consecutive Ones II](https://leetcode.com/problems/max-consecutive-ones-ii/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/400-499/487%20Max%20Consecutive%20Ones%20II.swift) | 💛 Medium |
