@@ -10,7 +10,7 @@
 
 </br>
 
-`359 Solved` - `💚 Easy 146` `💛 Medium 191` `❤️ Hard 22`
+`360 Solved` - `💚 Easy 146` `💛 Medium 192` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -375,6 +375,7 @@
 | ✅ | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1344%20Angle%20Between%20Hands%20of%20a%20Clock.swift) | 💛 Medium |
 | ✅ | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1345%20Jump%20Game%20IV.swift) | ❤️ Hard |
 | ✅ | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1365%20How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.swift) | 💚 Easy |
+| ✅ | 1396 | [Design Underground System](https://leetcode.com/problems/design-underground-system/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1300-1399/1396%20Design%20Underground%20System.swift) | 💛 Medium |
 ||
 | ✅ | 1426 | [Counting Elements](https://leetcode.com/problems/counting-elements/) 🔐 | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1426%20Counting%20Elements.swift) | 💚 Easy |
 | ✅ | 1437 | [Check If All 1's Are at Least Length K Places Away](https://leetcode.com/problems/check-if-all-1s-are-at-least-length-k-places-away/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/1400-1499/1437%20Check%20If%20All%201%27s%20Are%20at%20Least%20Length%20K%20Places%20Away.swift) | 💚 Easy |
