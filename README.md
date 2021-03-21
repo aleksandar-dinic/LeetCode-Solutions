@@ -10,7 +10,7 @@
 
 </br>
 
-`360 Solved` - `💚 Easy 146` `💛 Medium 192` `❤️ Hard 22`
+`361 Solved` - `💚 Easy 146` `💛 Medium 193` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -309,6 +309,7 @@
 | ✅ | 858 | [Mirror Reflection](https://leetcode.com/problems/mirror-reflection/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/858%20Mirror%20Reflection.swift) | 💛 Medium |
 | ✅ | 859 | [Buddy Strings](https://leetcode.com/problems/buddy-strings/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/859%20Buddy%20Strings.swift) | 💚 Easy |
 | ✅ | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/865%20Smallest%20Subtree%20with%20all%20the%20Deepest%20Nodes.swift) | 💛 Medium |
+| ✅ | 869 | [Reordered Power of 2](https://leetcode.com/problems/reordered-power-of-2/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/869%20Reordered%20Power%20of%202.swift) | 💛 Medium |
 | ✅ | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/876%20Middle%20of%20the%20Linked%20List.swift) | 💚 Easy |
 | ✅ | 880 | [Decoded String at Index](https://leetcode.com/problems/decoded-string-at-index/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/880%20Decoded%20String%20at%20Index.swift) | 💛 Medium |
 | ✅ | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/800-899/881%20Boats%20to%20Save%20People.swift) | 💛 Medium |
