@@ -10,7 +10,7 @@
 
 </br>
 
-`361 Solved` - `💚 Easy 146` `💛 Medium 193` `❤️ Hard 22`
+`362 Solved` - `💚 Easy 146` `💛 Medium 194` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
 |:--:|:-:|:-------------------------------------------------|:----------------:|:-----------|
@@ -326,6 +326,7 @@
 | ✅ | 949 | [Largest Time for Given Digits](https://leetcode.com/problems/largest-time-for-given-digits/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/949%20Largest%20Time%20for%20Given%20Digits.swift) | 💚 Easy |
 | ✅ | 952 | [Largest Component Size by Common Factor](https://leetcode.com/problems/largest-component-size-by-common-factor/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/952%20Largest%20Component%20Size%20by%20Common%20Factor.swift) | ❤️ Hard |
 | ✅ | 957 | [Prison Cells After N Days](https://leetcode.com/problems/prison-cells-after-n-days/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/957%20Prison%20Cells%20After%20N%20Days.swift) | 💛 Medium |
+| ✅ | 966 | [Vowel Spellchecker](https://leetcode.com/problems/vowel-spellchecker/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/966%20Vowel%20Spellchecker.swift) | 💛 Medium |
 | ✅ | 967 | [Numbers With Same Consecutive Differences](https://leetcode.com/problems/numbers-with-same-consecutive-differences/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/967%20Numbers%20With%20Same%20Consecutive%20Differences.swift) | 💛 Medium |
 | ✅ | 969 | [Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/969%20Pancake%20Sorting.swift) | 💛 Medium |
 | ✅ | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution.swift](https://github.com/AleksandarDinic/LeetCode-Solutions/blob/main/Solutions/900-999/977%20Squares%20of%20a%20Sorted%20Array.swift) | 💚 Easy |
