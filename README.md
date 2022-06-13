@@ -10,6 +10,10 @@
 
 </br>
 
+<a href="https://www.buymeacoffee.com/ADinic" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+</a>
+
 `365 Solved` - `💚 Easy 147` `💛 Medium 196` `❤️ Hard 22`
 
 |    | # | Title                                            |     Solution     | Difficulty |
